@@ -1,11 +1,1 @@
-javascript:(function(){
-  var w = window.open("about:blank", "_blank");
-  w.document.write(`
-    <style>
-      html, body { margin: 0; padding: 0; height: 100%; overflow: hidden; }
-      iframe { border: none; width: 100vw; height: 100vh; }
-    </style>
-    <iframe src="https://full.boxathome.net"></iframe>
-  `);
-  w.document.close();
-})();
+javascript:(function%20()%20%7B%20%20%20document.open();%20%20%20document.write(%60%20%20%20%20%20%3Ciframe%20src=%22https://full.boxathome.net%22%20%20%20%20%20%20%20style=%22border:none;width:100vw;height:100vh;%22%3E%3C/iframe%3E%20%20%20%60);%20%20%20document.close();%20%7D)();
