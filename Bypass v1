@@ -1,0 +1,11 @@
+javascript:(function(){
+  var w = window.open("about:blank", "_blank");
+  w.document.write(`
+    <style>
+      html, body { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+      iframe { border: none; width: 100vw; height: 100vh; }
+    </style>
+    <iframe src="https://full.boxathome.net/"></iframe>
+  `);
+  w.document.close();
+})();
