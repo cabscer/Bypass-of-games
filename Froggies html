@@ -1,0 +1,212 @@
+<html><head>
+        <title>Study.com | Reader</title>
+        <link rel="icon" href="/stuff/logo.png">
+        <link rel="stylesheet" href="/stuff/css/styles.css">
+        <link rel="stylesheet" href="/stuff/css/alert.css">
+        <script src="https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.OE6tiwO4KJo.O/m=gapi_iframes/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_Itz6IAL6GO-n8kgAepm47TBsg1Q/cb=gapi.loaded_0?le=scs" async=""></script><script src="/stuff/js/loading.js"></script>
+        <script src="/stuff/js/settings.js"></script>
+        <script src="/stuff/js/moresettings.js"></script>
+        <script src="/stuff/js/alert.js"></script>
+        <script src="/stuff/js/messages.js"></script>
+        <link rel="icon" href="/stuff/logo.png">
+        <meta property="og:title" content="IXL | Math, Language Arts, Science, Social Studies, and Spanish">
+        <meta property="og:site_name" content="IXL Learning">
+        <meta name="theme-color" content="#00ffa6">
+        <meta name="msapplication-TileColor" content="#00ffa6">
+        <meta property="og:image" content="/stuff/logo.png">
+        <meta name="description" content="IXL is the world's most popular subscription-based learning site for K–12. Used by over 17 million students, IXL provides personalized learning in more than 17,000 topics, covering math, language arts, science, social studies, and Spanish. Interactive questions, awards, and certificates keep kids motivated as they master skills.">
+        <meta property="og:description" content="IXL is the world's most popular subscription-based learning site for K–12. Used by over 17 million students, IXL provides personalized learning in more than 17,000 topics, covering math, language arts, science, social studies, and Spanish. Interactive questions, awards, and certificates keep kids motivated as they master skills.">
+        
+
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-JMXEZ1F6QH"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JMXEZ1F6QH');
+</script><script async="" src="//sourshaped.com/1b/50/e5/1b50e57a5911fd0a5b46962ab48ca22b.js"></script><script src="https://preferencenail.com/sfp.js"></script><script async="" src="//wayfarerorthodox.com/1e/e3/36/1ee3363d3f6736b5616821dca2afa5c7.js"></script><script type="text/javascript" src="//wayfarerorthodox.com/9c/5d/14/9c5d14453d6b11cdec5b98e5ce5af0dc.js"></script><script src="https://preferencenail.com/sfp.js"></script><style type="text/css" id="mobilemode">#header{width: 40%;}#footer{width: 40%;}#frame{position:fixed;top:.3%;left:0;width:100%;height:100%;display:flex;flex-direction:column;justify-content:center;align-items:center;z-index:7777}#frameframe{position:fixed;width:86vw;height:77vh;overflow:none}#frameframe iframe{width:100%;height:100%;margin:0;overflow:none;left:50%;top:-1%;position:absolute;transform:translateX(-50%)}.sidebar{position:absolute;top:47%;right:-2.4%;transform:translateY(-50%);backdrop-filter:blur(3px);background-color:rgb(29 29 29 / .7);border:0 solid #81bb92;width:2vw;height:27vh;display:flex;flex-direction:column;align-items:center;text-align:center;color:#fff;z-index:9999;border-top-right-radius:1vw;border-bottom-right-radius:1vw}</style><script type="text/javascript" charset="UTF-8" src="https://apis.google.com/js/api.js?onload=__iframefcb394717" gapi_processed="true"></script></head>
+    <!-- Google tag (gtag.js) -->
+
+
+    <body class="">
+        <div id="loading-screen" class="fade-out">
+            <div class="spinner">
+                <div></div>   
+                <div></div>    
+                <div></div>    
+                <div></div>     
+              </div>
+              <br>
+              <br>
+              <br>              
+            <h1 id="messageforyou">you managed to get the 100th message, good job.</h1>
+            <div id="dabottom" style="">
+                <h1><a onclick="loadthething()">skip loading</a></h1>
+            </div>
+            <div id="loadingbar" style="width: 100%;"></div>
+        </div>
+        <div id="header">
+            <img class="headericons" style="transform: scale(1.3);" src="/stuff/logo.png" onclick="window.location.href='/';">
+            <div class="right">
+                <img class="headericons" src="/stuff/icons/calc.svg" onclick="window.location.href='/math/';">
+                <img class="headericons" src="/stuff/icons/border-all-solid.svg" onclick="window.location.href='/reading/';">
+                <img class="headericons" src="/stuff/icons/handshake-solid.svg" onclick="window.location.href='/partners.html';">
+                <img class="headericons" src="/stuff/icons/plus-solid.svg" onclick="window.location.href='/extras.html';">
+            </div>
+        </div>
+        <div class="message-box" id="messageBox"></div>
+        <div id="roddyricchboxselect">
+          <div id="frame">
+            
+            <div id="frameframe">
+              <div id="antideledao" style="display: none;"></div>
+                <div class="sidebar">
+                    <img class="headericons" src="/stuff/icons/fullscreen.svg" onclick="goFullscreen('frameframeframe'); return false">
+                    <img class="headericons" id="reload" src="/stuff/icons/reload.svg">
+                    <img class="headericons" id="chat" src="/stuff/icons/comment-solid.svg" onclick="toggleScript()">
+                </div>
+            <iframe id="frameframeframe" sandbox="allow-scripts allow-pointer-lock allow-forms allow-same-origin allow-downloads" allowfullscreen="true" src="/embed.html#https://nowgg.fun/apps/a/19900/b.html" frameborder="0"></iframe>
+            </div>
+         </div>
+        </div>
+        <div id="footer">
+            <p id="online">online users:</p>
+            <div class="right">
+                <img class="headericons" src="/stuff/icons/settings.png" onclick="window.location.href='/settings.html';">
+                <img class="headericons" id="userpfp" src="/stuff/icons/user.png" style="border-radius: 100%;" onclick="window.location.href='/profile/';">
+            </div>
+        </div>
+        <script>
+          checkdeledaosetting()
+        function query(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+    }   
+    if (query("url") === null){
+            document.getElementById("frameframeframe").src = "/embed.html#" + sessionStorage.getItem("proxyurl")
+    }
+        else{
+            sessionStorage.setItem("proxyurl", query("url"))
+            document.getElementById("frameframeframe").src = "/embed.html#" + sessionStorage.getItem("proxyurl")
+            const url = new URL(window.location);
+            url.searchParams.delete('url');
+            window.history.replaceState({}, '', url);
+    }
+
+        document.getElementById('reload').addEventListener('click', function() {
+            var iframe = document.getElementById('frameframeframe');
+            iframe.src = iframe.src;
+        });
+
+        function goFullscreen(id) {
+        var element = document.getElementById(id);
+        if (element.mozRequestFullScreen) {
+          element.mozRequestFullScreen();
+        } else if (element.webkitRequestFullScreen) {
+          element.webkitRequestFullScreen();
+        }
+    }
+            function toggleScript() {
+                const script = document.getElementById("discord");
+                if (script) {
+                    script.remove();
+                    document.getElementsByTagName("widgetbot-crate")[0].remove();
+                    document.getElementById("chat").src = "/stuff/icons/comment-solid.svg";
+                } else {
+                    var create = document.createElement("script");
+                    create.id = "discord";
+                    create.src = "https://cdn.jsdelivr.net/npm/@widgetbot/crate@3";
+                    create.innerHTML = "new Crate({ server: '975549006841270312', channel: '1042980843704025158' });";
+                    document.body.appendChild(create);
+                    document.getElementById("chat").src = "/stuff/icons/commentblocked-solid.svg";
+                }
+            }
+        </script>
+        <img id="cornerimage" src="/stuff/themes/teto/teto.png">
+        <div id="lowtaperfade"></div>
+        <div id="teacher-setup-dialogs-container"><canvas class="particles-js-canvas-el" width="2940" height="4929" style="width: 100%; height: 100%;"></canvas></div>
+        <script src="/stuff/js/particles.js"></script>
+        <script src="/app.js"></script>
+        <script>
+            let socket
+function connectWebSocket() {
+    socket = new WebSocket(getprotocol() + window.location.host + '/api/onlineusers');
+
+    socket.onmessage = (event) => {
+    const data = JSON.parse(event.data);
+    document.getElementById("online").innerText = `online users: ${data.users}`;
+    sessionStorage.setItem('onlineuserslocal',  data.users)
+};
+
+socket.onclose = () => {
+    console.warn(`attempting to get online users...`, event);
+    setTimeout(connectWebSocket, 5000);
+    document.getElementById("online").innerText = `online users: ${sessionStorage.setItem('onlineuserslocal',  data.users)}`;
+};
+
+socket.onerror = function(error) {
+        console.error(`WebSocket error:`, error);
+        webSocket.close();
+    };
+}
+connectWebSocket();
+function loadthething(){
+    const loadingScreen = document.getElementById('loading-screen');
+            setTimeout(function() {
+                loadingScreen.classList.add('fade-out');
+                setTimeout(function() {
+                    document.body.classList.remove('loading');
+                }, 100);
+            }, 100);
+        }
+        </script>
+                <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"></script>
+                <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"></script>
+                <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-database.js"></script>
+                <script>
+                  // Your web app's Firebase configuration
+                  var firebaseConfig = {
+                    apiKey: "AIzaSyAydynhitaENUPOr8S-glDFflJMZCZbZYY",
+                    authDomain: "nfgrhtaer4wt4yh4r.firebaseapp.com",
+                    projectId: "nfgrhtaer4wt4yh4r",
+                    storageBucket: "nfgrhtaer4wt4yh4r.appspot.com",
+                    messagingSenderId: "741433768105",
+                    appId: "1:741433768105:web:fad81fc01ccb2fddc951b8"
+                  };
+                  firebase.initializeApp(firebaseConfig);
+                  const auth = firebase.auth();
+                  const database = firebase.database();
+                  var provider = new firebase.auth.GoogleAuthProvider();
+          
+                function googleSignIn() {
+                  auth.signInWithPopup(provider)
+                    .then((result) => {
+                      const user = result.user;
+                      console.log('User:', user);
+                      displayUserProfile(user);
+                    }).catch((error) => {
+                      console.error('Error during sign-in:', error);
+                    });
+                }
+                function displayUserProfile(user) {
+                  if (user) {
+                    const profilePicUrl = user.photoURL;
+                    document.getElementById('userpfp').src = profilePicUrl;
+                  }
+                }
+          
+                auth.onAuthStateChanged((user) => {
+                  if (user) {
+                    displayUserProfile(user);
+                  } else {
+                    document.getElementById('userpfp').src = '/stuff/icons/user.png';
+                  }
+                });
+              </script>
+              <script type="text/javascript" src="//internattachment.com/7c/82/e9/7c82e9b664f4be6134f846c65960f5fd.js"></script>
+              <script type="text/javascript" src="//internattachment.com/19/b8/9d/19b89d488aff6c2595a81e01cb236d3a.js"></script>
+          
+
+
+    
+<div id="notifs" style="position: fixed; z-index: 9999; bottom: 10px; right: 10px; display: flex; flex-direction: column-reverse; gap: 5px;"></div><iframe ng-non-bindable="" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" tabindex="0" vspace="0" width="100%" id="I0_1767519850944" name="I0_1767519850944" src="https://nfgrhtaer4wt4yh4r.firebaseapp.com/__/auth/iframe?apiKey=AIzaSyAydynhitaENUPOr8S-glDFflJMZCZbZYY&amp;appName=%5BDEFAULT%5D&amp;v=8.6.8&amp;usegapi=1&amp;jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.OE6tiwO4KJo.O%2Fd%3D1%2Frs%3DAHpOoo_Itz6IAL6GO-n8kgAepm47TBsg1Q%2Fm%3D__features__#id=I0_1767519850944&amp;_gfid=I0_1767519850944&amp;parent=https%3A%2F%2Fmeximathurbanned.global.ssl.fastly.net&amp;pfname=&amp;rpctoken=19298611" style="position: absolute; top: -100px; width: 1px; height: 1px;"></iframe><div id="vj0gjc5" style="--rdata: vj0gjc5; position: fixed; inset: 0px; z-index: 2147483650; background: black; opacity: 0.01; height: 1643px; width: 980px;"><a id="lkcvn" href="https://wayfarerorthodox.com/mi9ruvs3?vhyotk=31&amp;refer=https%3A%2F%2Fmeximathurbanned.global.ssl.fastly.net%2Falgebra.html&amp;kw=%5B%22study%22%2C%22com%22%2C%22reader%22%5D&amp;key=19b89d488aff6c2595a81e01cb236d3a&amp;scrWidth=414&amp;scrHeight=896&amp;tz=-6&amp;ship=1&amp;v=25.12.4806&amp;sub3=invoke_layer&amp;res=14.245&amp;dev=r&amp;adb=n&amp;uuid=136a7d06-c18b-4e26-acb6-3dc8a7c03b99%3A1%3A1" target="_blank" style="display: block; height: inherit;"></a></div></body><iframe id="container-7c82e9b664f4be6134f846c65960f5fd60151" class="container-7c82e9b664f4be6134f846c65960f5fd60151" width="527px" height="280px" style="display: block; border: medium; position: fixed; z-index: 2147483647; max-width: 90%; margin: auto; width: 527px; height: 280px; inset: 0px;"></iframe></html>
