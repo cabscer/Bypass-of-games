@@ -1,0 +1,844 @@
+<html lang="en" style="--vh: 6.59px; --vw: 3.93px;"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, shrink-to-fit=no, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" data-next-head=""><meta charset="UTF-8" data-next-head=""><meta name="HandheldFriendly" content="true" data-next-head=""><link rel="preload" href="/8/_next/static/media/black-bg.6fdd970d.jpg" as="image" fetchpriority="high" data-next-head=""><meta name="robots" content="noindex,nofollow,noarchive" data-next-head=""><meta http-equiv="X-UA-Compatible" content="ie=edge" data-next-head=""><link rel="canonical" href="https://educationbluesky.com/apps/undefined/undefined/undefined.html" data-next-head=""><meta name="description" data-next-head=""><meta name="baidu-site-verification" content="code-y42E1spUr0" data-next-head=""><meta property="og:locale" content="en" data-next-head=""><meta property="og:description" data-next-head=""><meta property="og:url" content="https://educationbluesky.com/apps/undefined/undefined/undefined.html" data-next-head=""><meta property="og:site_name" content="now.gg" data-next-head=""><meta property="twitter:title" data-next-head=""><meta name="twitter:description" data-next-head=""><title data-next-head="">(1) New Message!</title><meta property="og:image" data-next-head=""><meta property="og:image:secure_url" data-next-head=""><meta property="og:image:width" content="1200" data-next-head=""><meta property="og:image:height" content="630" data-next-head=""><meta property="og:image:type" content="image/jpeg" data-next-head=""><meta name="twitter:card" content="summary_large_image" data-next-head=""><meta name="twitter:image" data-next-head=""><link rel="alternate" href="https://educationbluesky.com/apps/undefined/undefined/undefined.html" hreflang="x-default" data-next-head=""><link rel="apple-touch-icon" href="https://cdn.now.gg/apps-content/default/images/Icon_512.png" data-next-head=""><script async="" type="text/javascript" src="https://cmp.inmobi.com/tcfv2/53/cmp2.js?referer=now.gg"></script><script async="" type="text/javascript" src="https://cmp.inmobi.com/choice/mw9xJtqPQGFbC/now.gg/choice.js?tag_version=V3"></script><script type="application/ld+json" data-next-head="">{"@context":"https://schema.org","@type":"MobileApplication","url":"https://educationbluesky.com/apps/undefined/undefined/undefined.html","operatingSystem":"Windows, Mac, Android, iOS","applicationCategory":"GameApplication, MultimediaApplication","aggregateRating":{"@type":"AggregateRating"},"author":{"@type":"Organization","name":"now.gg"},"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}</script><script type="application/ld+json" data-next-head="">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://educationbluesky.com"},{"@type":"ListItem","position":2,"name":"Games","item":"https:/now.gg/games.html"},{"@type":"ListItem","position":3,"name":"Casual Games","item":"https:/now.gg/games/undefined.html"},{"@type":"ListItem","position":4,"item":"https://educationbluesky.com/apps/undefined/undefined/undefined.html"}]}</script><style data-next-head="">
+  body {
+    background-color: #111;
+  }
+  .h5 {
+    position: static;
+  }
+</style><link rel="preconnect" href="https://cdn.now.gg/"><link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;display=swap"><link rel="preload" as="style" href="https://cdn.now.gg/nowgg-static/fonts/fonts.css"><script type="text/javascript">
+              if(typeof window !== "undefined"){
+                window.gtag_enable_tcf_support = true;
+              }
+              </script><link rel="icon" href="https://cdn.now.gg/apps-content/common/img/favicon.ico"><link rel="icon" href="https://cdn.now.gg/apps-content/common/img/favicon-32.ico" sizes="32x32"><link rel="icon" href="https://cdn.now.gg/apps-content/common/img/favicon-48.ico" sizes="48X48"><link rel="icon" href="https://cdn.now.gg/apps-content/common/img/favicon-96.ico" sizes="96X96"><link rel="icon" href="https://cdn.now.gg/apps-content/common/img/favicon-192.ico" sizes="192x192"><script>
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({
+    "gtm.start": new Date().getTime(),
+    event: "gtm.js"
+  });
+</script><script async="" type="text/javascript" src="https://www.googletagmanager.com/gtm.js?id=GTM-PRM8BWR"></script><script id="play_page_GetFirstLoadScript" data-nscript="beforeInteractive">
+  if (typeof window !== 'undefined') {
+    try {
+     if (window.location.hash === '#goog_rewarded') {
+            const urlWithoutHash = window.location.href.split('#')[0];
+            window.history.replaceState(null, '', urlWithoutHash);
+      }
+      window.performance && window.performance.mark && window.performance.mark('first-load-script-starting');
+    } catch(e) {}
+    window.googletag = window.googletag || { cmd: [] };
+    window.tude = window.tude || { cmd: [] };
+    window.nggParams = {};
+    console.log("App Version: berlin-v1.48.300_feature_nc-8558_2-arm.1");
+    try {
+      window.console.log = function() {};
+      window.console.warn = function() {};
+      window.console.info = function() {};
+    } catch(e) {}
+    (function() {
+    let random = bytes => crypto.getRandomValues(new Uint8Array(bytes));
+    let customRandom = (alphabet, defaultSize, getRandom) => {
+      let mask = (2 << (Math.log(alphabet.length - 1) / Math.LN2)) - 1;
+      let step = -~((1.6 * mask * defaultSize) / alphabet.length);
+      return (size = defaultSize) => {
+        let id = ''
+        while (true) {
+          let bytes = getRandom(step)
+          let j = step
+          while (j--) {
+            id += alphabet[bytes[j] & mask] || ''
+            if (id.length === size) return id
+          }
+        }
+      }
+    }
+    let customAlphabet = (alphabet, size = 21) => customRandom(alphabet, size, random)
+    const nanoid = customAlphabet('useandom26T198340PX75pxJACKVERYMINDBUSHWOLFGQZbfghjklqvwyzrict', 21);
+    var Storage={valuesMap:new Map,getItem(a){var b=String(a);return this.valuesMap.has(a)?String(this.valuesMap.get(b)):null},setItem(a,b){this.valuesMap.set(String(a),String(b))},removeItem(a){this.valuesMap.delete(a)},clear(){this.valuesMap.clear()},key(a){if(!a)throw new TypeError("Failed to execute 'key' on 'Storage': 1 argument required, but only 0 present.");return this.valuesMap.get(a)},get length(){return this.valuesMap.size}}
+    try {
+      localStorage.setItem("test", "test");
+      localStorage.removeItem("test");
+    } catch(e) {
+      Object.defineProperty(window, "localStorage", {
+        value: Object.assign({}, Storage),
+        configurable: !0,
+        enumerable: !0,
+        writable: !0
+      })
+    }
+
+    try {
+      sessionStorage.setItem("test", "test");
+      sessionStorage.removeItem("test");
+    } catch(e) {
+      Object.defineProperty(window, "sessionStorage", {
+        value: Object.assign({}, Storage),
+        configurable: !0,
+        enumerable: !0,
+        writable: !0
+      })
+    }
+    if (!sessionStorage.getItem("fe_uaSessionId")) {
+      sessionStorage.setItem("fe_uaSessionId", "uasess-" + nanoid());
+    }
+
+    window.nggParams["fe_uaSessionId"] = sessionStorage.getItem("fe_uaSessionId");
+
+    let pageAccessedByReload = (window && window.performance &&
+      (window.performance.navigation && window.performance.navigation.type === 1) ||
+        window.performance
+          .getEntriesByType('navigation')
+          .map((nav) => nav.type)
+          .includes('reload')
+    );
+
+    let newVisitId = "visitid-" + nanoid();
+    window.ngVisitId = sessionStorage.getItem("ngVisitId") || newVisitId;
+    sessionStorage.setItem("ngVisitId", window.ngVisitId);
+    window.feSessionId = "fesess-" + nanoid();
+
+    var rawPageUrl = window.location.href;
+    let oldNgUaId = '';
+
+    if(window && window.history && window.history.replaceState && window.location.href.indexOf("?") > -1 ) {
+      let currUrl = new URL(window.location.href);
+      let searchParams = new URLSearchParams(currUrl.search);
+
+      let refresh_token = searchParams.get("refresh_token");
+      refresh_token && sessionStorage.setItem("refresh_token", refresh_token);
+
+      let allow_edit = searchParams.get("allow_edit");
+      allow_edit && sessionStorage.setItem("allow_edit", allow_edit);
+
+      let utmSource = searchParams.get("utm_source");
+      utmSource && sessionStorage.setItem("utm_source", utmSource);
+
+      let utmCampaign = searchParams.get("utm_campaign");
+      utmCampaign && sessionStorage.setItem("utm_campaign", utmCampaign);
+
+      let utmMedium = searchParams.get("utm_medium");
+      utmMedium && sessionStorage.setItem("utm_medium", utmMedium);
+
+      let deepLink = searchParams.get("deep_link");
+      deepLink && sessionStorage.setItem("ngg-deep-link", deepLink);
+
+      let accessCode = searchParams.get("access_code");
+      accessCode && sessionStorage.setItem("access_code", accessCode);
+
+      let maxFps = searchParams.get("maxFps");
+      maxFps && sessionStorage.setItem("maxFps", maxFps);
+
+      let maxStreamBitrateKbps = searchParams.get("maxStreamBitrateKbps");
+      maxStreamBitrateKbps && sessionStorage.setItem("maxStreamBitrateKbps", maxStreamBitrateKbps);
+
+      let framebufferSizeWidth = searchParams.get("framebufferSizeWidth");
+      framebufferSizeWidth && sessionStorage.setItem("framebufferSizeWidth", framebufferSizeWidth);
+
+      let framebufferSizeHeight = searchParams.get("framebufferSizeHeight");
+      framebufferSizeHeight && sessionStorage.setItem("framebufferSizeHeight", framebufferSizeHeight);
+
+      let loginPrompt = searchParams.get("loginPrompt");
+      loginPrompt && sessionStorage.setItem("loginPrompt", loginPrompt);
+
+      searchParams.forEach((value, key) => {
+        if(key.includes("ngg-exp")){
+          localStorage.setItem(decodeURIComponent(key), value);
+        }
+      });
+
+      let ngIfpPartner = searchParams.get("ng_ifp_partner") || searchParams.get("partner");
+      if (ngIfpPartner) {
+        window.nggParams["partnerName"] = ngIfpPartner;
+        sessionStorage.setItem("partnerName", ngIfpPartner);
+      };
+      ngIfpPartner && sessionStorage.setItem("ntmSource", ['IfpPartner', ngIfpPartner].join(':'));
+
+      let partnerToken = sessionStorage.getItem("partnerToken");
+      partnerToken = searchParams.get("partnerToken") || searchParams.get("customData") || partnerToken;
+      partnerToken && sessionStorage.setItem("partnerToken", partnerToken);
+      window.nggParams["partnerToken"] = partnerToken;
+
+      let tokenScheme = sessionStorage.getItem("tokenScheme");
+      tokenScheme = searchParams.get("tokenScheme") || tokenScheme;
+      tokenScheme && sessionStorage.setItem("tokenScheme", tokenScheme);
+      window.nggParams["tokenScheme"] = sessionStorage.getItem("tokenScheme");
+
+      let ngUaId = searchParams.get("ng_uaId");
+      oldNgUaId = localStorage.getItem("fe_uaId");
+      ngUaId && localStorage.setItem("fe_uaId", ngUaId);
+
+      let ngUserSource = decodeURIComponent(searchParams.get("ng_userSource") || "");
+      ngUserSource && localStorage.setItem("userSource", ngUserSource);
+
+      let ngUserCampaign = decodeURIComponent(searchParams.get("ng_userCampaign") || "");
+      ngUserCampaign && localStorage.setItem("userCampaign", ngUserCampaign);
+
+      let ngUserAcqVar = decodeURIComponent(searchParams.get("ng_userAcqVar") || "");
+      ngUserAcqVar && localStorage.setItem("userAcqVar", ngUserAcqVar);
+
+      let ngUaSessionId = searchParams.get("ng_uaSessionId");
+      ngUaSessionId && sessionStorage.setItem("fe_uaSessionId", ngUaSessionId);
+
+      let nggForwardParams = decodeURIComponent(searchParams.get("nggForwardParams") || '');
+      nggForwardParams && sessionStorage.setItem("nggForwardParams", nggForwardParams);
+      !nggForwardParams && sessionStorage.removeItem("nggForwardParams");
+
+      let proxyPlaySessionId = searchParams.get("sessionId");
+      proxyPlaySessionId && sessionStorage.setItem("proxyPlaySessionId", proxyPlaySessionId);
+
+
+      let ngStateVisitId;
+      let statePageReferrer;
+      let authStateParams = JSON.parse(searchParams.get("state"));
+      if (authStateParams) {
+        ngStateVisitId = decodeURIComponent(authStateParams["ng_visitId"] || '');
+        if(ngStateVisitId){
+          window.ngVisitId = ngStateVisitId;
+          sessionStorage.setItem("ngVisitId", ngStateVisitId);
+        }
+
+        let ngStateFeSessionId = decodeURIComponent(authStateParams["ng_feSessionId"] || '');
+        ngStateFeSessionId && (window.feSessionId = ngStateFeSessionId);
+
+        let ngStateReferrer = decodeURIComponent(authStateParams["ng_ngReferrer"] || '');
+        ngStateReferrer && sessionStorage.setItem("ngReferrer", ngStateReferrer);
+
+        statePageReferrer = decodeURIComponent(authStateParams["pageReferrer"] || '');
+        statePageReferrer && sessionStorage.setItem("pageReferrer", statePageReferrer);
+
+        let triggeredBy = decodeURIComponent(authStateParams["triggeredBy"] || '');
+        triggeredBy && localStorage.setItem("ngg-fe-triggeredBy", triggeredBy);
+
+        let loginPageContext = decodeURIComponent(authStateParams["loginPageContext"] || '');
+        if (loginPageContext) {
+          sessionStorage.setItem("ngg-login-page-context", loginPageContext);
+          window.nggParams["ngg-login-page-context"] = loginPageContext;
+        }
+      }
+
+      let ngInviteId = decodeURIComponent(searchParams.get("ng_inviteId") || '');
+      ngInviteId && sessionStorage.setItem("ngg-fe-inviteId", ngInviteId);
+
+      let ngVisitId = decodeURIComponent(searchParams.get("ng_visitId") || '');
+      if(ngVisitId){
+        window.ngVisitId = ngVisitId;
+        sessionStorage.setItem("ngVisitId", ngVisitId);
+      }
+
+      let ngEntryPoint = decodeURIComponent(searchParams.get("ng_ngEntryPoint") || '');
+      ngEntryPoint && sessionStorage.setItem("ngEntryPoint", ngEntryPoint);
+
+      let ngReferrer = decodeURIComponent(searchParams.get("ng_ngReferrer") || '');
+      ngReferrer && sessionStorage.setItem("ngReferrer", ngReferrer);
+
+      let ngUtmSource = decodeURIComponent(searchParams.get("ng_utmSource") || '');
+      ngUtmSource && sessionStorage.setItem("utm_source", ngUtmSource);
+
+      let ngUtmCampaign = decodeURIComponent(searchParams.get("ng_utmCampaign") || '');
+      ngUtmCampaign && sessionStorage.setItem("utm_campaign", ngUtmCampaign);
+
+      let ngUtmMedium = decodeURIComponent(searchParams.get("ng_utmMedium") || '');
+      ngUtmMedium && sessionStorage.setItem("utm_medium", ngUtmMedium);
+
+      let ngNtmSource = searchParams.get("ng_ntmSource");
+      if (ngNtmSource) {
+        try {
+          window.autoLaunchByNtm = ['AnaChatBot', 'TopBarRecommendation', 'OverlayPortalOtherGames', 'SearchBarGameClicked', 'AiApps', 'TopApps', 'TopGames', 'PopularGames', 'MyGames', 'HotGames', 'SearchResult', 'ProfileBuyInGameItem'].indexOf(ngNtmSource) > -1;
+          sessionStorage.setItem("allowFpsRotation", !!window.autoLaunchByNtm);
+        } catch(e) {}
+        if (ngIfpPartner) {
+          let ngOnlySource = ngNtmSource;
+          if (ngNtmSource.indexOf('IfpPartner') > -1)
+            ngOnlySource = (ngNtmSource.split(',').length > 1) ? ngNtmSource.split(',')[1] : '';
+
+          ngOnlySource && sessionStorage.setItem("ntmSource", [sessionStorage.getItem("ntmSource"), ngOnlySource].join(','));
+        }
+        else
+          sessionStorage.setItem("ntmSource", ngNtmSource);
+      } else if (!ngIfpPartner)
+        sessionStorage.removeItem("ntmSource");
+
+      let appLaunchExtraData = searchParams.get("appLaunchExtraData");
+      appLaunchExtraData && sessionStorage.setItem("appLaunchExtraData", appLaunchExtraData);
+      window.nggParams["appLaunchExtraData"] = appLaunchExtraData;
+
+      let launcherData = searchParams.get("launcherData");
+      launcherData && sessionStorage.setItem("launcherData", launcherData);
+      window.nggParams["launcherData"] = launcherData;
+
+      let customData = searchParams.get("customData");
+      customData && sessionStorage.setItem("customData", customData);
+      window.nggParams["customData"] = customData;
+
+      !deepLink && sessionStorage.removeItem("ngg-deep-link");
+      !allow_edit && sessionStorage.removeItem("allow_edit");
+      !accessCode && sessionStorage.removeItem("access_code");
+      !ngInviteId && sessionStorage.removeItem("ngg-fe-inviteId");
+      !appLaunchExtraData && sessionStorage.removeItem("appLaunchExtraData");
+      !launcherData && sessionStorage.removeItem("launcherData");
+      !customData && sessionStorage.removeItem("customData");
+
+      if (!ngVisitId && !ngStateVisitId) {
+        !utmSource && !ngUtmSource && sessionStorage.removeItem("utm_source");
+        !utmMedium && !ngUtmMedium && sessionStorage.removeItem("utm_medium");
+        !utmCampaign && !ngUtmCampaign && sessionStorage.removeItem("utm_campaign");
+        !ngEntryPoint && sessionStorage.removeItem("ngEntryPoint");
+        !ngReferrer && sessionStorage.setItem("ngReferrer", document.referrer || 'NA');
+        !ngNtmSource && !ngIfpPartner && sessionStorage.removeItem("ntmSource");
+        sessionStorage.setItem("ngEntryPoint", window.location.href);
+      }
+      !statePageReferrer && sessionStorage.setItem("pageReferrer", searchParams.get("pageReferrer") || document.referrer || 'NA');
+
+      var finalUrl = window.location.href.split("?")[0];
+      let ngShort = searchParams.get("ng_short");
+      if (ngShort) {
+        finalUrl = finalUrl + "?ng_short=" + ngShort;
+      }
+      if (finalUrl != window.location.href && !false ) {
+        window.history.replaceState(null, document.title, finalUrl);
+      }
+    } else if(pageAccessedByReload) {
+      window.nggParams["partnerToken"] = sessionStorage.getItem("partnerToken");
+      window.nggParams["tokenScheme"] = sessionStorage.getItem("tokenScheme");
+      sessionStorage.setItem("pageReferrer", document.referrer || 'NA');
+      sessionStorage.removeItem("nggForwardParams");
+    } else {
+      sessionStorage.setItem("pageReferrer", document.referrer || 'NA');
+      sessionStorage.setItem("ngReferrer", document.referrer || 'NA');
+      sessionStorage.setItem("ngEntryPoint", window.location.href);
+      sessionStorage.removeItem("utm_source");
+      sessionStorage.removeItem("utm_medium");
+      sessionStorage.removeItem("utm_campaign");
+      sessionStorage.removeItem("ntmSource");
+      sessionStorage.removeItem("nggForwardParams");
+      sessionStorage.removeItem("ngg-deep-link");
+      sessionStorage.removeItem("allow_edit");
+      sessionStorage.removeItem("access_code");
+      sessionStorage.removeItem("ngg-fe-inviteId");
+      sessionStorage.removeItem("appLaunchExtraData");
+      sessionStorage.removeItem("launcherData");
+      sessionStorage.removeItem("customData");
+      window.ngVisitId = newVisitId;
+      sessionStorage.setItem("ngVisitId", window.ngVisitId);
+    }
+
+
+    function getSessionAcquitionSource() {
+      if (typeof window === 'undefined') {
+        return '';
+      }
+      var ngReferrer = sessionStorage.getItem('ngReferrer');
+      var utmCampaign = sessionStorage.getItem('utm_campaign');
+      var utmSource = sessionStorage.getItem('utm_source');
+      var utmMedium = sessionStorage.getItem('utm_medium');
+      if (utmMedium === 'ad' || utmMedium === 'paid') {
+        return 'paid';
+      }
+      var isNgReferrerValueExist = !!ngReferrer && ngReferrer !== 'NA';
+      var isUtmCampaignValueExist = !!utmCampaign && utmCampaign !== 'NA';
+      var isUtmSourceValueExist = !!utmSource && utmSource !== 'NA';
+      var isUtmMediumValueExist = !!utmMedium && utmMedium !== 'NA';
+      if (!isUtmCampaignValueExist && !isUtmSourceValueExist && !isUtmMediumValueExist && isNgReferrerValueExist && (ngReferrer.indexOf('google') > -1 || ngReferrer.indexOf('bing') > -1)) {
+        return 'organic';
+      }
+      if (!isUtmCampaignValueExist && !isUtmSourceValueExist && !isUtmMediumValueExist && isNgReferrerValueExist) {
+        return 'referral';
+      }
+      if (!isUtmCampaignValueExist && !isUtmSourceValueExist && !isUtmMediumValueExist && !isNgReferrerValueExist) {
+        return 'direct';
+      }
+      return 'others';
+    }
+
+    var isNewUser = false;
+
+    if (!localStorage.getItem("fe_uaId")) {
+      isNewUser = true;
+      localStorage.setItem("fe_uaId", "ua-" + nanoid());
+      sessionStorage.setItem("ngg-is-new-user", "true");
+    }
+
+    if (isNewUser || !localStorage.getItem("userSource")) {
+     localStorage.setItem("userSource", getSessionAcquitionSource());
+
+     let userCampaign = sessionStorage.getItem('utm_campaign');
+
+     if(userCampaign) {
+      localStorage.setItem("userCampaign", userCampaign);
+     }
+
+     function getLAFormattedTime() {
+      try {
+        var localeDateString = new Date().toLocaleDateString('en-US', {
+          hour12: false,
+          timeZone: 'America/Los_Angeles',
+          timeZoneName: 'short',
+          year: 'numeric',
+          month: 'short',
+          day: '2-digit'
+        });
+        var localeDateStringSplit = localeDateString.split(", ");
+        var dateMonthString = localeDateStringSplit[0];
+        var year = localeDateStringSplit[1];
+        var tz = localeDateStringSplit[2];
+        var dateMonthStringSplit = dateMonthString.split(" ");
+        var month = dateMonthStringSplit[0];
+        var date = dateMonthStringSplit[1];
+        var value = year + "_" + month + "_" + date + "_" + tz;
+        return value.toUpperCase();
+      } catch (e) {
+        return "";
+      }
+    }
+    localStorage.setItem("userAcqVar", (userCampaign || "NA")+"_"+getLAFormattedTime());
+    } else {
+      sessionStorage.removeItem("ngg-is-new-user");
+    }
+    window.nggParams["fe_uaId"] = localStorage.getItem("fe_uaId");
+
+    const getCookie = (cname) => {
+      if (!navigator.cookieEnabled)
+        return '';
+      if (typeof document !== 'undefined') {
+        const name = cname + "=";
+        const ca = document.cookie.split(';');
+        for (let i = 0; i < ca.length; i += 1) {
+          let c = ca[i];
+          while (c.charAt(0) === ' ') c = c.substring(1);
+          if (c.indexOf(name) === 0) return c.substring(name.length, c.length);
+        }
+      }
+      return '';
+    }
+    window.gameInfo = {
+      id: "19900",
+      fsWidget: {
+        x: 40,
+        y: 15,
+      }
+    }
+
+      // compiled device info start
+
+      var globalDeviceDetails = (function () {
+        var macIntelKeyword = "MacIntel";
+        var isMacIntelPlatform = function isMacIntelPlatform() {
+          return macIntelKeyword.indexOf(navigator.platform) !== -1;
+        };
+        var allOsNames = {
+          mac: "mac",
+          window: "window",
+          ios: "ios",
+          android: "android",
+          chrome_os: "chrome_os",
+          unix: "unix",
+          beos: "beos",
+          amigaos: "amigaos",
+          linux: "linux"
+        };
+        var isMobileComputed;
+        var isMobile = function isMobile() {
+          if (typeof isMobileComputed === "undefined") {
+            isMobileComputed = /Android|webOS|iPhone|iPad|iPod|BlackBerry|Windows Phone|Opera Mini|IEMobile|WPDesktop/i.test(navigator.userAgent) ||
+            /iPad|iPhone|iPod/.test(navigator.platform) || (isMacIntelPlatform() && navigator.maxTouchPoints > 1);
+          }
+          return isMobileComputed;
+        };
+        var isIPad = function isIPad() {
+          if (
+            navigator.maxTouchPoints &&
+            navigator.maxTouchPoints > 2 &&
+            isMacIntelPlatform()
+          ) {
+            return true;
+          }
+          return false;
+        };
+        var isChromeOS = function(){return/\bCrOS\b/.test(navigator.userAgent)};
+        var isUnixOS = function(){var a;return(null==(a=null==navigator?void 0:navigator.userAgent)?void 0:a.indexOf("X11"))!==-1};
+        var isBeOS = function(){return/BeOS/.test(navigator.userAgent)};
+        var isAmigaOS = function(){return/AmigaOS/.test(navigator.userAgent)}
+        var isTablet = function isTablet() {
+          var userAgent = navigator.userAgent.toLowerCase();
+          var tablet =
+            /(ipad|tablet|(android(?!.*mobile))|(windows(?!.*phone)(.*touch))|kindle|playbook|silk|(puffin(?!.*(IP|AP|WP))))/.test(
+              userAgent
+            );
+          return tablet || isUnixOS() && navigator.maxTouchPoints >= 5 && !isChromeOS();
+        };
+        var isTV = function isTV() {
+          try {
+            var userAgent = navigator.userAgent.toLowerCase();
+            var tvKeywords = [
+              "smarttv",
+              "googletv",
+              "appletv",
+              "hbbtv",
+              "netcast",
+              "webos",
+              "tizen",
+              "viera",
+              "roku",
+              "firetv"
+            ];
+
+            // eslint-disable-next-line no-plusplus
+            for (var i = 0; i < tvKeywords.length; ++i) {
+              if (userAgent.indexOf(tvKeywords[i]) > -1) {
+                return true;
+              }
+            }
+            if (
+              !(isMobile() || isIPad() || isTablet()) &&
+              userAgent.indexOf("jiopages") > -1
+            ) {
+              return true;
+            }
+            return false;
+          } catch (e) {
+            return false;
+          }
+        };
+        var getOsFamily = ()=>{try{let a=navigator.userAgent;if(/iPhone/.test(a)||/iPad/.test(a)||/iPod/.test(a))return"iOS";if(/Android/i.test(a))return"Android";if(/CrOS/.test(a))return"Chrome OS";if(/Linux/.test(a))return"Linux";if(/Win/i.test(a))return"Windows";if(/Mac/i.test(a))return"OS X";return"unknown"}catch(a){return"exception"}};
+        var getOS = function getOS() {
+          var userPlatform = window.navigator.platform;
+          var macosPlatforms = ["Macintosh", macIntelKeyword, "MacPPC", "Mac68K"];
+          var windowsPlatforms = ["Win32", "Win64", "Windows", "WinCE"];
+          var iosPlatforms = ["iPhone", "iPad", "iPod"];
+          var androidPlatforms = ["Android", "Linux", "Linux armv81"];
+          var os = getOsFamily() || "other";
+          if (iosPlatforms.indexOf(userPlatform) !== -1) {
+            os = allOsNames.ios;
+          } else if (macosPlatforms.indexOf(userPlatform) !== -1) {
+            os =(isIPad() || isTablet()) ? allOsNames.ios : allOsNames.mac;
+          } else if (windowsPlatforms.indexOf(userPlatform) !== -1) {
+            os = allOsNames.window;
+          } else if (
+            androidPlatforms.indexOf(userPlatform) !== -1 ||
+            os === "Android"
+          ) {
+            os = allOsNames.android;
+          } else if (isChromeOS()) {
+            os = allOsNames.chrome_os;
+          } else if (isUnixOS()) {
+            os = allOsNames.unix;
+          } else if (isBeOS()) {
+            os = allOsNames.beos;
+          } else if (isAmigaOS()) {
+            os = allOsNames.amigaos;
+          }
+          return os;
+        };
+        var desktopSpecificOSNames = [
+            allOsNames.mac,
+            allOsNames.window,
+            allOsNames.chrome_os,
+            allOsNames.unix,
+            allOsNames.beos,
+            allOsNames.amigaos,
+            allOsNames.linux
+          ];
+        var feDeviceType = "other";
+        var feOsName = getOS();
+        var getFeDeviceDetails = function getFeDeviceDetails() {
+          if (isIPad() || isTablet()) {
+            feDeviceType = "tablet";
+          } else if (isMobile()) {
+            feDeviceType = "smartphone";
+          } else if (
+            desktopSpecificOSNames.indexOf(
+              feOsName === null || feOsName === void 0
+                ? void 0
+                : feOsName.toLowerCase()
+            ) !== -1 &&!isTV()
+          ) {
+            feDeviceType = "desktop";
+          }
+          return {
+            feDeviceType: feDeviceType,
+            feOsName: feOsName
+          };
+        };
+        return getFeDeviceDetails();
+      })();
+      globalDeviceDetails = globalDeviceDetails || {};
+      var _globalDeviceDetails = globalDeviceDetails,
+        feDeviceType = _globalDeviceDetails.feDeviceType,
+        feOsName = _globalDeviceDetails.feOsName;
+
+
+      // compiled device info end
+
+      var eventName= "FeBootstrap";
+
+      if(true){
+        eventName="ApBootstrap";
+      }
+
+      const getFeSessionTags = () => {
+        const feSessionTags = [];
+
+        try {
+          if (false) {
+            feSessionTags.push('TryAndDownload');
+          }
+
+          const ntmSource = sessionStorage.getItem('ntmSource');
+          if (ntmSource && 'TopBarRecommendation' === ntmSource) {
+            feSessionTags.push('TopBarRecommendation');
+          } else if (ntmSource && 'TopBarRecommendationForLearning' === ntmSource) {
+            feSessionTags.push('TopBarRecommendationForLearning');
+          }
+
+          feSessionTags.push(window.nggParams["partnerName"] ? 'iFrame' : 'nowgg');
+        } catch (_) {}
+
+        return feSessionTags;
+      };
+
+    var timeSinceNavMsecs = 0;
+    try {
+      timeSinceNavMsecs = performance.now();
+    } catch (e) {
+      timeSinceNavMsecs = 0;
+    }
+
+    var clientWidth = 'NA', clientHeight = 'NA', innerWidth = 'NA', innerHeight = 'NA', outerWidth = 'NA', outerHeight = 'NA', screenWidth = 'NA', screenHeight = 'NA', devicePixelRatio = 'NA', availWidth = 'NA', availHeight = 'NA', touchPoints = 'NA';
+    try {
+      clientWidth = document.documentElement.clientWidth || 'NA';
+      clientHeight = document.documentElement.clientHeight || 'NA';
+      innerWidth = window.innerWidth || 'NA';
+      innerHeight = window.innerHeight || 'NA';
+      outerWidth = window.outerWidth || 'NA';
+      outerHeight = window.outerHeight || 'NA';
+      screenWidth = window.screen.width || 'NA';
+      screenHeight = window.screen.height || 'NA';
+      devicePixelRatio = window.devicePixelRatio || 'NA';
+      availWidth = window.screen.availWidth || 'NA';
+      availHeight = window.screen.availHeight || 'NA';
+      touchPoints = navigator.maxTouchPoints || 'NA';
+    } catch (e) {}
+
+    var extraData = {
+      rawPageUrl: rawPageUrl,
+      timeSinceNavMsecs: timeSinceNavMsecs,
+      isNewUaId: isNewUser ? true: undefined,
+      oldUaId: (oldNgUaId !== localStorage.getItem("fe_uaId") ? oldNgUaId : '') || 'NA',
+      workflowCategory: "workflow1",
+      unifiedEnabled: "true",
+      enablePlayPage: "false",
+      clientWidth: clientWidth,
+      clientHeight: clientHeight,
+      innerWidth: innerWidth,
+      innerHeight: innerHeight,
+      outerWidth: outerWidth,
+      outerHeight: outerHeight,
+      screenWidth: screenWidth,
+      screenHeight: screenHeight,
+      devicePixelRatio: devicePixelRatio,
+      availWidth: availWidth,
+      availHeight: availHeight,
+      touchPoints: touchPoints,
+    };
+
+    const payload = {
+      appId: "19900",
+      uaId: window.nggParams["fe_uaId"] || localStorage.getItem("fe_uaId") || "NA",
+      userType: "NA",
+      uaSessionId: window.nggParams["fe_uaSessionId"] || sessionStorage.getItem("fe_uaSessionId") || "NA",
+      feSessionId: window.feSessionId,
+      packageName: "com.roblox.client",
+      originTimestamp: new Date(),
+      eventName: eventName,
+      extraData: extraData,
+      feDeviceType: feDeviceType || '',
+      feOsName: feOsName || '',
+      utmSource: sessionStorage.getItem("utm_source") || getCookie('utm_source') || "NA",
+      utmMedium: sessionStorage.getItem("utm_medium") || getCookie('utm_medium')|| "NA",
+      utmCampaign: sessionStorage.getItem("utm_campaign") || getCookie('utm_campaign')|| "NA",
+      ngReferrer: sessionStorage.getItem("ngReferrer") || "NA",
+      pageReferrer: sessionStorage.getItem("pageReferrer") || "NA",
+      ngEntryPoint: sessionStorage.getItem('ngEntryPoint') || 'NA',
+      visitId: window.ngVisitId,
+      ntmSource: sessionStorage.getItem('ntmSource') || 'NA',
+      feSessionTags: getFeSessionTags(),
+      userSource: localStorage.getItem('userSource') || 'NA',
+      visitSource: getSessionAcquitionSource(),
+      userCampaign: localStorage.getItem('userCampaign') || 'NA',
+      userAcqVar: localStorage.getItem('userAcqVar') || 'NA',
+      visitCampaign: sessionStorage.getItem('utm_campaign') || 'NA',
+    };
+
+    window.timeSinceBootstrapMsecs = timeSinceNavMsecs;
+
+    fetch("/oapi/8/play/v1/reportEvent", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "x-ngg-fe-version": "berlin-v1.48.300_feature_nc-8558_2-arm.1",
+      "x-ngg-skip-evar-check": "false",
+    },
+    body: JSON.stringify(payload)
+  }).then(response => {
+    if (response.status === 205) {
+      window.nggVersionMismatch = true;
+      const nUrl = new URL(window.location.href);
+      const searchParams = nUrl.searchParams;
+      searchParams.set('ng_visitId',  encodeURIComponent(window.ngVisitId));
+      searchParams.set('ng_ngReferrer',  encodeURIComponent(sessionStorage.getItem('ngReferrer') || ''));
+      searchParams.set('ng_ngEntryPoint',  encodeURIComponent(sessionStorage.getItem('ngEntryPoint') || ''));
+      searchParams.set('ng_utmSource',  encodeURIComponent(sessionStorage.getItem('utm_source') || ''));
+      searchParams.set('ng_utmMedium',  encodeURIComponent(sessionStorage.getItem('utm_medium') || ''));
+      searchParams.set('ng_utmCampaign',  encodeURIComponent(sessionStorage.getItem('utm_campaign') || ''));
+      searchParams.set('ng_ntmSource', sessionStorage.getItem('ntmSource') || 'NA');
+      nUrl.search = searchParams.toString();
+
+      window.location.href = nUrl.toString();
+    }
+    return response.json();
+  }).then(json => {
+    if(json && json.clientIpInfo){
+      window.nggClientIpInfo = json.clientIpInfo;
+      window.dispatchEvent(
+        new Event('nggClientIpInfoEvent'),
+      );
+    }
+    
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({ event: 'feBootstrap', pagePath: window.location.href });
+      
+    var nuke = function() {
+      sessionStorage.clear();
+      localStorage.clear();
+      window.location.reload();
+    }
+    if (json.status === "FailureUaIdRevoked") {
+      fetch('https://now.gg/accounts/auth/v1/logout').then(nuke).catch(nuke);
+    }
+  }).catch(e => {});
+      try {["start-url", "media", "now-gg-precache"].forEach(a => {caches.delete(a);});} catch (e) {}
+    })()
+  window.performance && window.performance.mark && window.performance.mark('first-load-script-ended');
+}
+</script><link rel="preload" href="/8/play/assets/_next/static/css/styles.d6c7be162965db05.css" as="style"><link rel="stylesheet" href="/8/play/assets/_next/static/css/styles.d6c7be162965db05.css" data-n-g=""><noscript data-n-css=""></noscript><script defer="" nomodule="" src="/8/play/assets/_next/static/chunks/polyfills-42372ed130431b0a.js"></script><script defer="" src="/8/play/assets/_next/static/chunks/3328.a75a54192958bc5e.js"></script><script defer="" src="/8/play/assets/_next/static/chunks/5912.a71abe42116fd3ec.js"></script><script defer="" src="/8/play/assets/_next/static/chunks/3366.a38d4d60a913ba00.js"></script><script defer="" src="/8/play/assets/_next/static/chunks/7064.824ceeebd139f621.js"></script><script defer="" src="/8/play/assets/_next/static/chunks/3501.225f10cb5a1e0124.js"></script><script defer="" src="/8/play/assets/_next/static/chunks/1484.9e6da948a7bbab85.js"></script><script defer="" src="/8/play/assets/_next/static/chunks/8842.7417349ea2288bc8.js"></script><script defer="" src="/8/play/assets/_next/static/chunks/8938.013a2d1b4308ea7c.js"></script><script defer="" src="/8/play/assets/_next/static/chunks/9311.5d58bad71d9061eb.js"></script><script defer="" src="/8/play/assets/_next/static/chunks/3470.ebbaa895b3f259f2.js"></script><script defer="" src="/8/play/assets/_next/static/chunks/9682.0e13628e0ff13810.js"></script><script defer="" src="/8/play/assets/_next/static/chunks/6865.f8562e2f2865f870.js"></script><script src="/8/play/assets/_next/static/chunks/webpack-15aedfc6e1c5d87d.js" defer=""></script><script src="/8/play/assets/_next/static/chunks/main-4f884091f83cebb1.js" defer=""></script><script src="/8/play/assets/_next/static/chunks/pages/_app-a4f3c9116a8fb7c2.js" defer=""></script><script src="/8/play/assets/_next/static/chunks/pages/apps/%5B...index%5D-672e0cda0dc9e298.js" defer=""></script><script src="/8/play/assets/_next/static/R0h2YDhFAJJRBLD9dc_ik/_buildManifest.js" defer=""></script><script src="/8/play/assets/_next/static/R0h2YDhFAJJRBLD9dc_ik/_ssgManifest.js" defer=""></script><style data-styled="active" data-styled-version="5.3.11"></style><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GZ7K0FK3LT"></script><script>
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-GZ7K0FK3LT');
+                  </script><style type="text/css"> .qc-cmp-button {    background-color: #ff42a5 !important;    border-color: #ff42a5 !important;  }  .qc-cmp-button:hover {    border-color: #ff42a5 !important;  }  .qc-cmp-alt-action,  .qc-cmp-link {    color: #ff42a5 !important;  }  .qc-cmp-button.qc-cmp-secondary-button:hover {    background-color: #ff42a5 !important;    border-color: #ff42a5 !important;  }  .qc-cmp-button.qc-cmp-secondary-button:hover {    color: #ffffff !important;  }  .qc-cmp-button.qc-cmp-secondary-button {    color: #ff42a5 !important;  }  .qc-cmp-button.qc-cmp-secondary-button {    background-color: #eee !important;    border-color: transparent !important;  } </style><meta name="msapplication-TileImage" content="https://cdn.now.gg/apps-content/common/img/favicon.ico" data-next-head=""><meta name="theme-color" content="#00ff9d" data-next-head=""><div><link rel="stylesheet" type="text/css" href=""></div><script data-cfasync="false" nowprocket="">(async()=>{function t(t){const e=t.length;let o='';for(let r=0;e>r;r++){o+=t[6709*(r+79)%e]}return o}const e=window,o=t('tcreateElemen'),r=t('lihCdneppad'),n=t('detLedreinEanstv'),c=t('tributesetAt'),a=document,i=a.head,s=a[o].bind(a),d=i[r].bind(i),l=location,m=l.hostname,h=btoa;e[n].bind(e);let p=t('mhtml-load.co');(async()=>{try{const n=a.querySelector(t('czxptrFAA#issgvp'));if(!n)throw t('t find Canno')+p+t('str pc.i');const i=n.getAttribute(t('ornrreo')),f=n.getAttribute(t('donloa')),u=await new Promise((o=>{const r=t('x')+Math.floor(1e6*Math.random());e[r]=()=>o(!0);const n=s(t('tscrip'));n.src=t(';data:'),n[c](t('ornrreo'),t('wdi.onw')+r+t(')(')),d(n),setTimeout((()=>{o(!1),n.remove()}),251)}));if(u)return;function o(){const e=s(t('tscrip'));e.innerText=i,d(e),e.remove()}const b=h(m+t('alodon_')),w=h(m+t('ooe_rnrr'));e[b]=function(){const e=s(t('tscrip'));e.innerText=f,d(e),e.remove()},e[w]=o,o()}catch(r){(e=>{const o=t('motp-r.or:tlom.oroere/phd/crerrtp/sta');try{const r=t('ltOccsl.ae iombp wrTr a   i aPephgdleo s e.oneoKklee g tna lraaehemr');confirm(r)?l.href=o+t('u?=lr')+h(l.href)+t('rre=or&')+h(e)+t('dnm&io=a')+p:l.reload()}catch(r){location.href=o+t('We=QJVto2wr?%ImImNgre3GldarQovDJ0=iZVre&sY&nWB=ndb')+p}})(r)}})()})();</script><link href="https://cdn.now.gg/nowgg-static/fonts/fonts.css" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;display=swap" rel="stylesheet"><script src="https://preferencenail.com/sfp.js"></script><script async="" src="//kettledroopingcontinuation.com/1e/e3/36/1ee3363d3f6736b5616821dca2afa5c7.js"></script><link rel="manifest" href="data:application/json;charset=utf-8,%7B%22name%22%3A%22Roblox%22%2C%22short_name%22%3A%22Roblox%22%2C%22start_url%22%3A%22https%3A%2F%2F146.ip.nowgg.lol%2Fapps%2Fa%2F19900%2Fb.html%3Futm_source%3DPWA_app_icon%26utm_medium%3DPWA_browser%26%5Cn%20%20%20%20%20%20utm_campaign%3DPWA%22%2C%22scope%22%3A%22https%3A%2F%2F146.ip.nowgg.lol%2Fapps%2Fa%2F19900%2Fb.html%22%2C%22display%22%3A%22standalone%22%2C%22theme_color%22%3A%22%23FF43A6%22%2C%22description%22%3A%22Roblox%22%2C%22icons%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fcdn.now.gg%2Fapps-content%2Fcom.roblox.client%2Fpwa%2FIcon_48.png%22%2C%22sizes%22%3A%2248x48%22%2C%22type%22%3A%22image%2Fpng%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fcdn.now.gg%2Fapps-content%2Fcom.roblox.client%2Fpwa%2FIcon_96.png%22%2C%22sizes%22%3A%2296x96%22%2C%22type%22%3A%22image%2Fpng%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fcdn.now.gg%2Fapps-content%2Fcom.roblox.client%2Fpwa%2FIcon_144.png%22%2C%22sizes%22%3A%22144x144%22%2C%22type%22%3A%22image%2Fpng%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fcdn.now.gg%2Fapps-content%2Fcom.roblox.client%2Fpwa%2FIcon_192.png%22%2C%22sizes%22%3A%22192x192%22%2C%22type%22%3A%22image%2Fpng%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fcdn.now.gg%2Fapps-content%2Fcom.roblox.client%2Fpwa%2FIcon_512.png%22%2C%22sizes%22%3A%22512x512%22%2C%22type%22%3A%22image%2Fpng%22%7D%5D%7D" data-next-head=""><script type="text/javascript" src="//skinnycrawlinglax.com/9c/5d/14/9c5d14453d6b11cdec5b98e5ce5af0dc.js"></script><script src="https://preferencenail.com/sfp.js"></script><script>(function(){function a0v(F,v){const h=a0F();return a0v=function(L,H){L=L-0x85;let E=h[L];return E;},a0v(F,v);}function a0F(){const y=['length','includes','removeEventListener','99DdfTHL','message','426867skijjn','926090UmJmXE','5618020JaGBio','forEach','delete','9152640ERdRZO','get','c3RyaW5n','setTimeout','handleEvent','eval','requestIdleCallback','399064oRTnwg','168YhZGAx','test','requestAnimationFrame','error','call','set','addEventListener','filter','load','61678oqLYfA','setInterval','ZnVuY3Rpb24','prototype','click','3732384LyVUeN','27bKBjKK','slice'];a0F=function(){return y;};return a0F();}(function(F,v){const i=a0v,h=F();while(!![]){try{const L=-parseInt(i(0x94))/0x1+parseInt(i(0x9e))/0x2*(parseInt(i(0x86))/0x3)+-parseInt(i(0xa3))/0x4+parseInt(i(0x89))/0x5+parseInt(i(0x8d))/0x6+parseInt(i(0x88))/0x7*(parseInt(i(0x95))/0x8)+-parseInt(i(0xa4))/0x9*(parseInt(i(0x8a))/0xa);if(L===v)break;else h['push'](h['shift']());}catch(H){h['push'](h['shift']());}}}(a0F,0xf2094),((()=>{const G=a0v,F=(E,B)=>typeof E===B,v=atob(G(0xa0)),h=atob(G(0x8f));if(!F(h,h))return;{const E=RegExp[G(0xa1)][G(0x96)];RegExp[G(0xa1)][G(0x96)]=function(B){const g=G;return E[g(0x99)](this,B);};}[G(0x97),G(0x93),G(0x9f),G(0x90)][G(0x9c)](B=>window[B])[G(0x8b)](B=>window[B]=H(window[B],B)),EventTarget[G(0xa1)][G(0x9b)]=H(EventTarget[G(0xa1)][G(0x9b)],G(0x9b),0x1),EventTarget[G(0xa1)][G(0x85)]=H(EventTarget[G(0xa1)][G(0x85)],G(0x85),0x1);const L=new Map();function H(B,u){const P=G;let p=arguments[P(0xa6)]>0x2&&void 0x0!==arguments[0x2]?arguments[0x2]:0x0;return function(){const o=P;for(var S=arguments[o(0xa6)],K=new Array(S),N=0x0;N<S;N++)K[N]=arguments[N];const Q=K[o(0xa5)](0x0,p),Y=K[p],b=K[o(0xa5)](p+0x1);if(!Y)return B[o(0x99)](this,...K);if(o(0x9f)!==u&&o(0x90)!==u&&!F(Y,v)&&!F(Y[o(0x91)],v))return B[o(0x99)](this,...K);let f=null;if(o(0x9b)===u||o(0x85)===u){const I=[o(0x9d),o(0x98),o(0x87),o(0xa2)],J=Q[0x0];if(!I[o(0xa7)](J))return B[o(0x99)](this,...K);L[o(0x8e)](this)||L[o(0x9a)](this,new Map()),L[o(0x8e)](this)[o(0x8e)](J)||L[o(0x8e)](this)[o(0x9a)](J,new Map()),f=L[o(0x8e)](this)[o(0x8e)](J)[o(0x8e)](Y);}if(f=f||function(){const W=o;for(var x=arguments[W(0xa6)],X=new Array(x),m=0x0;m<x;m++)X[m]=arguments[m];return F(Y,v)?Y[W(0x99)](this,...X):F(Y,h)?window[W(0x92)](Y):F(Y[W(0x91)],v)?Y[W(0x91)][W(0x99)](Y,...X):void 0x0;},o(0x9b)===u){const x=Q[0x0];L[o(0x8e)](this)[o(0x8e)](x)[o(0x9a)](Y,f);}else{if(o(0x85)===u){const X=Q[0x0],m=L[o(0x8e)](this)[o(0x8e)](X)[o(0x8e)](Y)||Y;return L[o(0x8e)](this)[o(0x8e)](X)[o(0x8c)](Y),B[o(0x99)](this,...Q,m,...b);}}return B[o(0x99)](this,...Q,f,...b);};}})()));})()</script><script src="https://raven-edge.aditude.io/raven/nowgg-lngtl-swP3j/library.js"></script><script data-raven="1" src="https://raven-static.aditude.io/prod/1.16.0-sj05vn/raven.js"></script></head><body class="landscape rotate-screen" style="height: 393px; width: 659px;"><noscript style="margin:auto;border-radius:20px;padding:20px;text-align:center;font-size:x-large;color:#ffffff;background:rgba(0, 0, 0, 0.8)"><h2>You need to enable JavaScript to run this app</h2><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PRM8BWR" height="0" width="0" style="display:none;visibility:hidden" title="gtm script"></iframe></noscript><div id="__next"><div class="lcpImgWrapper full-wh"><div class="lcpDiv"></div><div style="width: 100%; height: 100%; background-image: url(&quot;/8/_next/static/media/black-bg.6fdd970d.jpg&quot;); background-size: cover; background-position: center center; background-repeat: repeat;"></div></div><section class="StyledLayout full-w-h"><div class="full-w-h"><div class="AppContent full-w-h"><div class="ciQTX0js5AsOQ5v6 full-w-h"><section class="sc-31f7ab6d-0 iCeuGa full-w-h" style="padding-top: min(56.25% + 56px, -132px + 100vh); height: calc(-132px + 100vh);"><section class="sc-31f7ab6d-1 mMhRa 
+          
+          full-w-h 
+          
+        "><div class="sc-31f7ab6d-2 PcVTF"><div class="sc-c4e760d1-1 kOEdsQ landscape"><div class="sc-c4e760d1-0 fiowFu"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img src="https://cdn.now.gg/assets-opt/_next/image?url=https%3A%2F%2Fcdn.now.gg%2Fassets-opt%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fcdn.now.gg%252Fapps-content%252Fdefault%252Fimages%252FBanner_Portrait.jpg%26w%3D640%26q%3D50&amp;w=1440&amp;q=80" decoding="async" data-nimg="fill" sizes="100vw" srcset="https://cdn.now.gg/assets-opt/_next/image?url=https%3A%2F%2Fcdn.now.gg%2Fassets-opt%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fcdn.now.gg%252Fapps-content%252Fdefault%252Fimages%252FBanner_Portrait.jpg%26w%3D640%26q%3D50&amp;w=640&amp;q=80 640w, https://cdn.now.gg/assets-opt/_next/image?url=https%3A%2F%2Fcdn.now.gg%2Fassets-opt%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fcdn.now.gg%252Fapps-content%252Fdefault%252Fimages%252FBanner_Portrait.jpg%26w%3D640%26q%3D50&amp;w=920&amp;q=80 920w, https://cdn.now.gg/assets-opt/_next/image?url=https%3A%2F%2Fcdn.now.gg%2Fassets-opt%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fcdn.now.gg%252Fapps-content%252Fdefault%252Fimages%252FBanner_Portrait.jpg%26w%3D640%26q%3D50&amp;w=1440&amp;q=80 1440w" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"></span></div><div class="sc-e07ad0f6-1 ieJvNT" style="background: none;"><div class="sc-20ce4e2a-3 rhcAa"><video src="/loading.mp4" autoplay="" loop="" disableremoteplayback="" playsinline="" class="preloader-video"></video></div><div class="sc-e07ad0f6-2 hlUqij" style="padding: 16px; background-color: rgba(0, 0, 0, 0.7); position: absolute; bottom: 24px;"><div class="sc-20ce4e2a-1 hQcEIQ"><img src="https://cdn.now.gg/apps-content/default/images/Icon_512.png" alt="Roblox" height="64" width="64"><div class="sc-20ce4e2a-2 ilrsQi"><p>loading, be patient. https://discord.gg/unblockedgames | https://frogiesarcade.win</p><div class="sc-20ce4e2a-0 kksztG"></div></div></div></div></div><div class="sc-32ab44d9-0 cuQVCT"></div><div class="sc-594d3038-0 ksOIdF"></div><div class="sc-f9a20ca6-0 dwXPFr  mobileMode
+            " style="padding-left: 0px;"><video id="js-game-video" autoplay="" disableremoteplayback="" playsinline="" class="sc-f9a20ca6-1 gLxA-Dz portrait-1" style="cursor: auto; opacity: 0; top: 50%; left: 50%; object-fit: cover; position: absolute; transform-origin: 0px 0px; height: 660px; width: 371px;" disablepictureinpicture=""></video></div><div class="sc-ea71f7f1-2 hQIwqA"><h5 class="sc-3c372983-4 hTzzwR" style="margin: 0px 0px 0px 13.5px;"></h5></div><div class="sc-ea71f7f1-2 hQIwqA"><h5 class="sc-3c372983-4 hTzzwR" style="margin: 0px 0px 0px 13.5px;"></h5></div></div></div></section></section></div></div></div></section></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"appInfo":{"status":"Success","appId":"19900","appName":"Roblox","appSlug":"b","appType":"Android","appDeveloperInfo":{"name":"Roblox Corporation","developerSlug":"a"},"companyName":"Now.gg-Internal","state":"active","appRating":4.5,"appGenre":"Adventure","appPageUrl":"https://now.gg/apps/a/19900/b.html","initialOrientation":"landscape","packageName":"com.roblox.client","media":{"desktop":{"banner":"https://cdn.now.gg/apps-content/default/images/Banner_Landscape.jpg","launchVideo":"/loading.mp4"},"mobile":{"banner":"https://cdn.now.gg/apps-content/default/images/Banner_Portrait.jpg","launchVideo":"/loading.mp4"},"icon":"https://cdn.now.gg/apps-content/default/images/Icon_512.png","tile":"https://cdn.now.gg/apps-content/default/images/Game_Tile.jpg","logo":"https://cdn.now.gg/apps-content/default/images/Logo.png"},"metaTags":"\u003cmeta name=\"robots\" content=\"noindex\"/\u003e\u003cmeta property=\"og:locale\" content=\"en_US\" /\u003e\u003cmeta property=\"og:title\" content=\"Roblox\" /\u003e\u003cmeta property=\"og:description\" content=\"Play instantly in browser with now.gg\" /\u003e\u003cmeta property=\"og:url\" content=\"http://www.roblox.com\" /\u003e\u003cmeta property=\"og:site_name\" content=\"Roblox Corporation\" /\u003e\u003cmeta property=\"og:image\" itemprop=\"image\" content=\"https://cdn.now.gg/apps-content/com.roblox.client/ogimage/roblox.jpg\" /\u003e\u003cmeta property=\"og:image:secure_url\" itemprop=\"image\" content=\"https://cdn.now.gg/apps-content/com.roblox.client/ogimage/roblox.jpg\" /\u003e\u003cmeta property=\"og:image:width\" content=\"1482\" /\u003e\u003cmeta property=\"og:image:height\" content=\"486\" /\u003e\u003cmeta property=\"og:image:type\" content=\"image/jpeg\" /\u003e\u003cmeta name=\"twitter:card\" content=\"summary_large_image\" /\u003e\u003cmeta name=\"twitter:title\" content=\"Roblox\" /\u003e\u003cmeta name=\"twitter:description\" content=\"Play instantly in browser with now.gg\" /\u003e\u003cmeta name=\"twitter:image\" content=\"https://cdn.now.gg/apps-content/com.roblox.client/ogimage/roblox.jpg\" /\u003e\u003ctitle\u003ePlay Roblox Online™\u003c/title\u003e\u003cmeta name=\"apple-mobile-web-app-title\" content=\"Roblox\"/\u003e\u003clink rel=\"apple-touch-icon\" href=\"https://cdn.now.gg/apps-content/com.roblox.client/pwa/Icon_192.png\"\u003e\u003cmeta name=\"description\" content=\"Play Roblox game in the browser on your PC or mobile. No download required.\" /\u003e","widgets":{"desktopFullScreen":{"top":15,"left":40},"mobileMenu":{"left":8,"top":140}},"imapCfgHost":"cloud.bluestacks.com","alternateUrlForProxies":"https://doctoraux.com","iapLoginPromptEnabled":false,"enableBackButton":false,"authServiceHost":"now.gg","paymentSdkHost":"cloud-api.bluestacks.cn","paymentBaseRedirectHost":"https://now.gg","embeddedGameUrl":"","enableUnifiedPage":true,"playDomain":"educationbluesky.com","pwaNudgeDelayMs":600000,"authClientId":"zBC1LCs7s7IuZzxQP9oO$$01FSC1WJAM5587593T5ZQDREQV","authUseThirdPartyFlow":true,"wasmChromeTrialToken":"AvI2/WZW8GLE/A8GKe4Dg5JDJo0CxDk/KzGWUDJ8ztBCRzgryJMEbE4afH71KU6Mv9RMT9ggXFvppV09C9rfPA0AAAB+eyJvcmlnaW4iOiJodHRwczovL2VkdWNhdGlvbmJsdWVza3kuY29tOjQ0MyIsImZlYXR1cmUiOiJVbnJlc3RyaWN0ZWRTaGFyZWRBcnJheUJ1ZmZlciIsImV4cGlyeSI6MTc3OTE0ODgwMCwiaXNTdWJkb21haW4iOnRydWV9","playFeFeatures":{"requireAuth":false,"enableHotjar":true,"enableLiveChat":false,"enableCouponGenerator":false,"ads":{"desktop":{"enableDisplayAds":false,"enablePrerollAds":false,"enableMidrollAds":false},"mobile":{"enableDisplayAds":false,"enablePrerollAds":false,"enableMidrollAds":false}},"tryAndDownload":{"cumulativeTimeLimitSecs":0,"clientLink":"1","isEnabled":false},"enableExternalUrlPrompt":true,"enableNativeKeyboard":true,"enableMouseLock":true,"feAnswerSdpModifications":[{"replacement":"sprop-stereo=1;stereo=1;maxplaybackrate=48000","pattern":"useinbandfec=1"},{"replacement":"minptime=3;ptime=3;maxptime=20;","pattern":"minptime=(\\d*);"},{"pattern":"^((?!.minptime=(\\d)).maxplaybackrate=48000.)","replacement":"$1;minptime=3;ptime=3;maxptime=20"}],"enableTestDriveUi":true,"enableB2BNoResoureUi":false,"enableRobuxRewards":true,"enableSocialIcons":false,"enablePokelaboUi":false,"enableAiBot": false,"aiBotScreenshotFrequencySecs":31,"authType":"Now","enablePaidOnlyMode":false,"forcedRewardedAds":true,"enableAiScreenshot":false,"partnerSessionEndInfo":{"enable":false,"sessionEndCtaText":"","warningCtaText":"","warningMessage":"","sessionEndMessage":""},"enableFpsBasedMousePolling":false,"enableRecording":true,"enablePwa":true,"uiConfig":{"customBrandLogo":{"enabled":false,"logoUrl":""},"sessionModal":{"enableDisconnectScreen":false,"enableRestartButton":true,"enableGameTile":true},"enableB2bErrorUi":false,"enableHeaderLogoRedirection": false,"mobileMenu":{"enableBrandLogo":false,"enabled":true,"enableProfileAction":false},"customPreloader":{"backgroundVideo":{"videoUrl":"","posterUrl":""},"enabled":false,"backgroundUrl":""},"enableHeader":false,"enablePerfMonitor":false,"enableDebugOverlay":true,"enableSupportWidget":true,"enableSearch": false,"enableIframeHeader":false,"enableAppRestartButton": true,"disableLocationPermissionModal": true,"enableMatureContentWarning":false,"enableWelcomeToast":true,"footer":{"enabled":true,"enableBrandLogo":true}},"enablePlayModeWithPd":false,"enableSubscriptionPass":true,"gl":{"enableImageDetection":false,"maxFps":30}},"appleAppStoreUrl":"https://apps.apple.com/us/app/roblox/id431946152","googlePlayStoreUrl":"https://play.google.com/store/apps/details?id=com.roblox.client","rwdMinPlayTimeIntervalInSecs":1800,"rwdMinRedemptionCredits":1000,"rwdRobuxCreditsRequiredForSpin":1,"rwdDailySpinLimit":5,"enablePlayUrlForwarding":false,"authGoogleOauthClientId":"543291291905-vss63ln3o2hklepv16rbdrddrp81ibju.apps.googleusercontent.com","workflowCategory":"workflow1","workflowPageDetails":null,"playPageHost":"now.gg","requireRewardedAdsOrPremium":false,"userQueuePollingSecs":5,"recaptchaSiteKey":"6LebUboqAAAAAGvgEqpweEmTzbxlzTnq4cVAXQQN","redirectProxyTrafficPlayDomain":"mmoculture.com/news","enablePriorityQueue":true,"premiumQueueMethod":"NowPrime","enablePlayPage":false,"requireHomepageLaunch":true,"isAltDomain":true,"showNewAdsLayout":true,"isServerSideDesktopAdsEnabled": false},"features":{"nativeControlsList":[{"key":"Movement","value":[{"key":"Movement","value":"W A S D"},{"key":"Jump","value":"Spacebar"}]},{"key":"Camera","value":[{"key":"Rotate Camera","value":"Right Click (Hold)"},{"key":"Pan Left","value":"Left Arrow"},{"key":"Pan Right","value":"Right Arrow"},{"key":"Zoom In/Out","value":"Mouse Wheel"},{"key":"Zoom In","value":"I"},{"key":"Zoom Out","value":"O"}]},{"key":"Menu","value":[{"key":"Roblox Menu","value":"Esc"},{"key":"Playerlist","value":"Tab"},{"key":"Fullscreen","value":"F11"},{"key":"Dev Console","value":"F9"},{"key":"Performance Stats","value":"Ctrl + Shift + F7"}]}],"shiftLock":true,"ads": false,"requireAuth":false,"enableHotjar":true,"promotedGame":[{"appGenre":"Adventure","appId":"1434","appName":"Mini World: CREATA","media":{"icon":"https://cdn.now.gg/apps-content/com.playmini.miniworld.ow/icon/mini-world.png","tile":"https://cdn.now.gg/apps-content/com.playmini.miniworld.ow/game-tiles/mini-world.jpg","logo":"https://cdn.now.gg/apps-content/com.playmini.miniworld.ow/logo/mini-world.png","desktop":{"banner":"https://cdn.now.gg/apps-content/com.playmini.miniworld.ow/banner/desktop/mini-world.jpg","launchVideo":"/loading.mp4"},"mobile":{"banner":"https://cdn.now.gg/apps-content/com.playmini.miniworld.ow/banner/mobile/mini-world.jpg","launchVideo":"/loading.mp4"}},"packageName":"com.playmini.miniworld.ow","playUrl":"https://now.gg/play/minovate/1434/mini-world","appDeveloperInfo":{"name":"Adventure"}}],"fixedBackButton":false,"enableExternalUrlPrompt":true,"enableKeymapEditor":false,"enableMotionSensor":false},"isCfMobile":false,"isCfDesktop":true,"ngNcmHost":"https://now.gg","prefix":"/8","authUseThirdPartyFlow":true,"authRedirectionUrl":"https://now.gg/accounts/oauth2/v1/auth/?provider=$provider\u0026response_type=none\u0026client_id=zBC1LCs7s7IuZzxQP9oO$$01FSC1WJAM5587593T5ZQDREQV\u0026redirect_uri=https://educationbluesky.com/accounts/auth/v1/set-nsid/\u0026continue=$continueUrl","pwaIconHost":"https://cdn.now.gg/apps-content/com.roblox.client/pwa","pwaNudgeDelayMs":600000,"playDomain":"educationbluesky.com","serviceStatus":null,"ssrOrigin":"educationbluesky.com","countryCode":"US","isQuancastPopupSupportByCountry":false,"thirdPartyAuthUrl":"https://now.gg/accounts/auth/v1/identifier/?client_id=zBC1LCs7s7IuZzxQP9oO$$01FSC1WJAM5587593T5ZQDREQV\u0026redirect_uri=https://educationbluesky.com/accounts/auth/v1/set-nsid/\u0026continue=/apps/a/19900/b.html","pageType":"UnifiedAppPage","ssrEvar":"","appPageSpecificData":{"appPackageInfo":{},"videos":[{"imageURL":"https://cms-cdn.now.gg/cms-media/2023/03/video-game-2.png","title":"No Downloads. No Installs. Play games INSTANTLY on now.gg","videoURL":"https://www.youtube.com/embed/qaTVpUZkSTI?autoplay=1\u0026controls=1\u0026mute=1\u0026enablejsapi=1"},{"imageURL":"https://cms-cdn.now.gg/cms-media/2023/03/video-game-3.png","title":"Did you score? #unblockedgames #school","videoURL":"https://www.youtube.com/embed/aMZXrSweWxA?autoplay=1\u0026controls=1\u0026mute=1\u0026enablejsapi=1"},{"imageURL":"https://cms-cdn.now.gg/cms-media/2023/03/video-game-4.png","title":"Play Instantly on now.gg","videoURL":"https://www.youtube.com/embed/_23wYKZvzHw?autoplay=1\u0026controls=1\u0026mute=1\u0026enablejsapi=1"},{"imageURL":"https://cms-cdn.now.gg/cms-media/2023/03/video-game-5.png","title":"Breaking game records like OG😎","videoURL":"https://www.youtube.com/embed/cFvIQc5TXus?autoplay=1\u0026controls=1\u0026mute=1\u0026enablejsapi=1"},{"imageURL":"https://cms-cdn.now.gg/cms-media/2023/03/vide-game-6.png","title":"Busted gaming on school laptop, but you are still lit🔥😎","videoURL":"https://www.youtube.com/embed/6wCsIDFSabM?autoplay=1\u0026controls=1\u0026mute=1\u0026enablejsapi=1"}]},"popularGames":[{"appId":"51946","packageName":"com.nowgg.h5.pub501.app51946","media":{"icon":"https://cdn.now.gg/apps-content/51946/icon/sup-ai.png","tile":"https://cdn.now.gg/apps-content/51946/game-tiles/sup-ai.jpg"},"appName":"wsup.ai - Chat with AI Characters Online","appGenre":"Simulation","playUrl":"https://educationbluesky.com/play/now-gg/51946/sup-ai","appDeveloperInfo":{"name":"now.gg","developerSlug":"now-gg"},"appRank":1,"appRating":4.8,"appPageUrl":"https://educationbluesky.com/apps/now-gg/51946/sup-ai.html","appType":"Html","recommendationTag":"hot","workflowCategory":"workflow1","appSlug":"sup-ai","companyName":"Internal-H5","showTile":true},{"appId":"19908","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19908/icon/80-anime-vanguards.png","tile":"https://cdn.now.gg/apps-content/19908/game-tiles/80-anime-vanguards.jpg"},"appName":"80 Anime Vanguards","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/80-anime-vanguards/19908/80-anime-vanguards","appDeveloperInfo":{"name":"80-anime-vanguards","developerSlug":"80-anime-vanguards"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/80-anime-vanguards/19908/80-anime-vanguards.html","appType":"Android","workflowCategory":"workflow1","appSlug":"80-anime-vanguards","companyName":"Now.gg-Internal","showTile":true},{"appId":"10386","packageName":"ai.socialapps.speakmaster","media":{"icon":"https://cdn.now.gg/apps-content/10386/icon/polybuzz.png","tile":"https://cdn.now.gg/apps-content/10386/game-tiles/polybuzz.jpg"},"appName":"PolyBuzz","appGenre":"Other","playUrl":"https://educationbluesky.com/play/cloud-whale-interactive-technology-llc/10386/polybuzz","appDeveloperInfo":{"name":"CLOUD WHALE INTERACTIVE TECHNOLOGY LLC.","developerSlug":"cloud-whale-interactive-technology-llc"},"appRank":1,"appRating":4.2,"appPageUrl":"https://educationbluesky.com/apps/cloud-whale-interactive-technology-llc/10386/polybuzz.html","appType":"Android","workflowCategory":"workflow1","appSlug":"polybuzz","companyName":"Now.gg-Internal","showTile":true},{"appId":"19902","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19902/icon/99-Nights.png","tile":"https://cdn.now.gg/apps-content/19902/game-tiles/99-Nights.jpg"},"appName":"99 Nights in the Forest","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/99-Nights/19902/99-Nights","appDeveloperInfo":{"developerSlug":"99-Nights","name":"99-Nights"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/99-Nights/19902/99-Nights.html","appType":"Android","workflowCategory":"workflow1","appSlug":"99-Nights","companyName":"Now.gg-Internal","showTile":true},{"appId":"19903","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19903/icon/Grow-a-Garden.png","tile":"https://cdn.now.gg/apps-content/19903/game-tiles/Grow-a-Garden.jpg"},"appName":"Grow a Garden","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/Grow-a-Garden/19903/Grow-a-Garden","appDeveloperInfo":{"developerSlug":"Grow-a-Garden","name":"Grow-a-Garden"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/Grow-a-Garden/19903/Grow-a-Garden.html","appType":"Android","workflowCategory":"workflow1","appSlug":"Grow-a-Garden","companyName":"Now.gg-Internal","showTile":true},{"appId":"19906","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19906/icon/ink-game.png","tile":"https://cdn.now.gg/apps-content/19906/game-tiles/ink-game.jpg"},"appName":"Ink Game","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/ink-game/19906/ink-game","appDeveloperInfo":{"name":"ink-game","developerSlug":"ink-game"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/ink-game/19906/ink-game.html","appType":"Android","workflowCategory":"workflow1","appSlug":"ink-game","companyName":"Now.gg-Internal","showTile":true},{"appId":"10613","packageName":"com.NolodinGames.CatSimulator","media":{"icon":"https://cdn.now.gg/apps-content/10613/icon/cat-from-hell-cat-simulator.png","tile":"https://cdn.now.gg/apps-content/10613/game-tiles/cat-from-hell-cat-simulator.jpg"},"appName":"Cat From Hell - Cat Simulator","appGenre":"Sandbox","playUrl":"https://educationbluesky.com/play/nolodin/10613/cat-from-hell-cat-simulator","appDeveloperInfo":{"name":"Nolodin","developerSlug":"nolodin"},"appRank":1,"appRating":4.4,"appPageUrl":"https://educationbluesky.com/apps/nolodin/10613/cat-from-hell-cat-simulator.html","appType":"Android","workflowCategory":"workflow1","appSlug":"cat-from-hell-cat-simulator","companyName":"Tataki","showTile":true},{"appId":"19904","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19904/icon/Steal-a-Brainrot.png","tile":"https://cdn.now.gg/apps-content/19904/game-tiles/Steal-a-Brainrot.jpg"},"appName":"Steal a Brainrot","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/Steal-a-Brainrot/19904/Steal-a-Brainrot","appDeveloperInfo":{"developerSlug":"Steal-a-Brainrot","name":"Steal-a-Brainrot"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/Steal-a-Brainrot/19904/Steal-a-Brainrot.html","appType":"Android","workflowCategory":"workflow1","appSlug":"Steal-a-Brainrot","companyName":"Now.gg-Internal","showTile":true},{"appId":"19912","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19912/icon/adopt-me.png","tile":"https://cdn.now.gg/apps-content/19912/game-tiles/adopt-me.jpg"},"appName":"Adopt Me","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/adopt-me/19912/adopt-me","appDeveloperInfo":{"name":"adopt-me","developerSlug":"adopt-me"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/adopt-me/19912/adopt-me.html","appType":"Android","workflowCategory":"workflow1","appSlug":"adopt-me","companyName":"Now.gg-Internal","showTile":true},{"appId":"5691","packageName":"air.com.lunime.gachalife2","media":{"icon":"https://cdn.now.gg/apps-content/air.com.lunime.gachalife2/icon/gacha-life-2.png","tile":"https://cdn.now.gg/apps-content/air.com.lunime.gachalife2/game-tiles/gacha-life-2.jpg"},"appName":"Gacha Life 2","appGenre":"Casual","playUrl":"https://educationbluesky.com/play/lunime/5691/gacha-life-2","appDeveloperInfo":{"name":"Lunime","developerSlug":"lunime"},"appRank":5,"appRating":4.35,"appPageUrl":"https://educationbluesky.com/apps/lunime/5691/gacha-life-2.html","appType":"Android","workflowCategory":"workflow1","appSlug":"gacha-life-2","companyName":"Now.gg-Internal","showTile":true},{"appId":"19905","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19905/icon/Brookhaven.png","tile":"https://cdn.now.gg/apps-content/19905/game-tiles/Brookhaven.jpg"},"appName":"Brookhaven","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/Brookhaven/19905/Brookhaven","appDeveloperInfo":{"developerSlug":"Brookhaven","name":"Brookhaven"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/Brookhaven/19905/Brookhaven.html","appType":"Android","workflowCategory":"workflow1","appSlug":"Brookhaven","companyName":"Now.gg-Internal","showTile":true},{"appId":"8851","packageName":"com.aigc.ushow.ichat","media":{"icon":"https://cdn.now.gg/apps-content/8851/icon/linky-chat-with-characters-ai.png","tile":"https://cdn.now.gg/apps-content/8851/game-tiles/linky-chat-with-characters-ai.jpg"},"appName":"Linky: Chat with Characters AI","appGenre":"Social","playUrl":"https://educationbluesky.com/play/skywork-ai-pte-ltd/8851/linky-chat-with-characters-ai","appDeveloperInfo":{"name":"Skywork AI Pte. Ltd.","developerSlug":"skywork-ai-pte-ltd"},"appRank":1,"appRating":4.61,"appPageUrl":"https://educationbluesky.com/apps/skywork-ai-pte-ltd/8851/linky-chat-with-characters-ai.html","appType":"Android","workflowCategory":"workflow1","appSlug":"linky-chat-with-characters-ai","companyName":"Now.gg-Internal","showTile":true},{"appId":"51240","packageName":"com.nowgg.h5.pub511.app51240","media":{"icon":"https://cdn.now.gg/apps-content/com.nowgg.h5.pub511.app51240/icon/bloxd-io.png","tile":"https://cdn.now.gg/apps-content/com.nowgg.h5.pub511.app51240/game-tiles/bloxd-io.jpg"},"appName":"bloxd.io","appGenre":"Arcade","playUrl":"https://educationbluesky.com/play/bloxd/51240/bloxd-io","appDeveloperInfo":{"name":"bloxd","developerSlug":"bloxd"},"appRank":1,"appRating":4.17,"appPageUrl":"https://educationbluesky.com/apps/bloxd/51240/bloxd-io.html","appType":"Html","workflowCategory":"workflow1","appSlug":"bloxd-io","companyName":"bloxd.io","showTile":true},{"appId":"2132","packageName":"air.com.lunime.gachaclub","media":{"icon":"https://cdn.now.gg/apps-content/air.com.lunime.gachaclub/icon/gacha-club.png","tile":"https://cdn.now.gg/apps-content/air.com.lunime.gachaclub/game-tiles/gacha-club.jpg"},"appName":"Gacha Club","appGenre":"Casual","playUrl":"https://educationbluesky.com/play/lunime/2132/gacha-club","appDeveloperInfo":{"name":"Lunime","developerSlug":"lunime"},"appRank":6,"appRating":4.4,"appPageUrl":"https://educationbluesky.com/apps/lunime/2132/gacha-club.html","appType":"Android","workflowCategory":"workflow1","appSlug":"gacha-club","companyName":"Now.gg-Internal","showTile":true},{"appId":"19901","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19901/icon/b.png","tile":"https://cdn.now.gg/apps-content/19901/game-tiles/b.jpg"},"appName":"Blox-fruit","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/Blox-fruit/19901/Blox-fruit","appDeveloperInfo":{"name":"Blox-fruit","developerSlug":"Blox-fruit"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/Blox-fruit/19901/Blox-fruit.html","appType":"Android","workflowCategory":"workflow1","appSlug":"Blox-fruit","companyName":"Now.gg-Internal","showTile":true},{"appId":"5767","packageName":"air.com.lunime.gachalife","media":{"icon":"https://cdn.now.gg/apps-content/air.com.lunime.gachalife/icon/gacha-life.png","tile":"https://cdn.now.gg/apps-content/air.com.lunime.gachalife/game-tiles/gacha-life.jpg"},"appName":"Gacha Life","appGenre":"Casual","playUrl":"https://educationbluesky.com/play/lunime/5767/gacha-life","appDeveloperInfo":{"name":"Lunime","developerSlug":"lunime"},"appRank":6,"appRating":4.3,"appPageUrl":"https://educationbluesky.com/apps/lunime/5767/gacha-life.html","appType":"Android","workflowCategory":"workflow1","appSlug":"gacha-life","companyName":"Now.gg-Internal","showTile":true},{"appId":"19915","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19915/icon/upd-volleyball-legen.png","tile":"https://cdn.now.gg/apps-content/19915/game-tiles/upd-volleyball-legen.jpg"},"appName":"UPD Volleyball Legend","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/upd-volleyball-legen/19915/upd-volleyball-legen","appDeveloperInfo":{"name":"upd-volleyball-legen","developerSlug":"upd-volleyball-legen"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/upd-volleyball-legen/19915/upd-volleyball-legen.html","appType":"Android","workflowCategory":"workflow1","appSlug":"upd-volleyball-legen","companyName":"Now.gg-Internal","showTile":true},{"appId":"9152","packageName":"hk.aceplaying.defender.jf.nowgg","media":{"icon":"https://cdn.now.gg/apps-content/9152/icon/ace-defender.png","tile":"https://cdn.now.gg/apps-content/9152/game-tiles/ace-defender.jpg"},"appName":"Ace Defender","appGenre":"Idle","playUrl":"https://educationbluesky.com/play/juefeng-games/9152/ace-defender","appDeveloperInfo":{"name":"JueFeng Games","developerSlug":"juefeng-games"},"appRank":1,"appRating":4.6,"appPageUrl":"https://educationbluesky.com/play/juefeng-games/9152/ace-defender.html","appType":"Android","workflowCategory":"workflow1","appSlug":"ace-defender","companyName":"JueFeng Games","showTile":true},{"appId":"51921","packageName":"com.nowgg.h5.pub483.app51921","media":{"icon":"https://cdn.now.gg/apps-content/51921/icon/mr-racer-car-racing.png","tile":"https://cdn.now.gg/apps-content/51921/game-tiles/mr-racer-car-racing.jpg"},"appName":"MR RACER - Car Racing","appGenre":"Racing","playUrl":"https://now.us/play/chennaigames-studio-private-limited/51921/mr-racer-car-racing","appDeveloperInfo":{"name":"ChennaiGames Studio Private Limited","developerSlug":"chennaigames-studio-private-limited"},"appRank":1,"appRating":4.14,"appPageUrl":"https://educationbluesky.com/apps/chennaigames-studio-private-limited/51921/mr-racer-car-racing.html","appType":"Html","workflowCategory":"workflow1","appSlug":"mr-racer-car-racing","companyName":"Azerion","showTile":true},{"appId":"51904","packageName":"com.nowgg.h5.pub1894.app51904","media":{"icon":"https://cdn.now.gg/apps-content/51904/icon/solitaire-social.png","tile":"https://cdn.now.gg/apps-content/51904/game-tiles/solitaire-social.jpg"},"appName":"Solitaire Social","appGenre":"Card","playUrl":"https://educationbluesky.com/play/kosmos-games/51904/solitaire-social","appDeveloperInfo":{"name":"Kosmos Games","developerSlug":"kosmos-games"},"appRank":1,"appRating":4.46,"appPageUrl":"https://educationbluesky.com/apps/kosmos-games/51904/solitaire-social.html","appType":"Html","workflowCategory":"workflow1","appSlug":"solitaire-social","companyName":"Kosmos Games","showTile":true},{"appId":"8840","packageName":"imposter.plugindigital.com","media":{"icon":"https://cdn.now.gg/apps-content/8840/icon/impostor-rescue.png","tile":"https://cdn.now.gg/apps-content/8840/game-tiles/impostor-rescue.jpg"},"appName":"Impostor Rescue","appGenre":"Puzzle","playUrl":"https://educationbluesky.com/play/mobaso/8840/impostor-rescue","appDeveloperInfo":{"name":"Mobaso","developerSlug":"mobaso"},"appRank":1,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/mobaso/8840/impostor-rescue.html","appType":"Android","workflowCategory":"workflow1","appSlug":"impostor-rescue","companyName":"Plug-in Digital","showTile":true},{"appId":"8822","packageName":"com.Rohit.IndianBikes","media":{"icon":"https://cdn.now.gg/apps-content/8822/icon/indian-bikes-driving-3d.png","tile":"https://cdn.now.gg/apps-content/8822/game-tiles/indian-bikes-driving-3d.jpg"},"appName":"Indian Bikes Driving 3D","appGenre":"Action","playUrl":"https://educationbluesky.com/play/rohit-gaming-studio/8822/indian-bikes-driving-3d","appDeveloperInfo":{"name":"Rohit Gaming Studio","developerSlug":"rohit-gaming-studio"},"appRank":1,"appRating":4.09,"appPageUrl":"https://educationbluesky.com/apps/rohit-gaming-studio/8822/indian-bikes-driving-3d.html","appType":"Android","workflowCategory":"workflow1","appSlug":"indian-bikes-driving-3d","companyName":"Internal Indie Showcase","showTile":true},{"appId":"8697","packageName":"com.lightfoxgames.punch","media":{"icon":"https://cdn.now.gg/apps-content/8697/icon/rumble-club.png","tile":"https://cdn.now.gg/apps-content/8697/game-tiles/rumble-club.jpg"},"appName":"Rumble Club","appGenre":"Action","playUrl":"https://educationbluesky.com/play/lightfox-games-inc/8697/rumble-club","appDeveloperInfo":{"name":"Lightfox Games, Inc.","developerSlug":"lightfox-games-inc"},"appRank":1,"appRating":4.08,"appPageUrl":"https://educationbluesky.com/apps/lightfox-games-inc/8697/rumble-club.html","appType":"Android","workflowCategory":"workflow1","appSlug":"rumble-club","companyName":"Internal Indie Showcase","showTile":true},{"appId":"51907","packageName":"com.nowgg.h5.pub813.app51907","media":{"icon":"https://cdn.now.gg/apps-content/51907/icon/escape-lockdown.png","tile":"https://cdn.now.gg/apps-content/51907/game-tiles/escape-lockdown.jpg"},"appName":"Escape Lockdown","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/spatial-io/51907/escape-lockdown","appDeveloperInfo":{"name":"Spatial.io","developerSlug":"spatial-io"},"appRank":1,"appRating":4.47,"appPageUrl":"https://educationbluesky.com/apps/spatial-io/51907/escape-lockdown.html","appType":"Html","workflowCategory":"workflow1","appSlug":"escape-lockdown","companyName":"Spatial Systems Inc.","showTile":true},{"appId":"8730","packageName":"com.unorthodoxbox.comfygirlpremium","media":{"icon":"https://cdn.now.gg/apps-content/8730/icon/comfy-girl.png","tile":"https://cdn.now.gg/apps-content/8730/game-tiles/comfy-girl.jpg"},"appName":"Comfy Girl","appGenre":"Simulation","playUrl":"https://educationbluesky.com/play/plug-in-digital/8730/comfy-girl","appDeveloperInfo":{"name":"Plug-in Digital","developerSlug":"plug-in-digital"},"appRank":1,"appRating":4.19,"appPageUrl":"https://educationbluesky.com/apps/plug-in-digital/8730/comfy-girl.html","appType":"Android","workflowCategory":"workflow1","appSlug":"comfy-girl","companyName":"Plug-in Digital","showTile":true},{"appId":"8826","packageName":"com.sofish.wptxj.gp","media":{"icon":"https://cdn.now.gg/apps-content/8826/icon/paws-go.png","tile":"https://cdn.now.gg/apps-content/8826/game-tiles/paws-go.jpg"},"appName":"Paws Go！","appGenre":"Casual","playUrl":"https://educationbluesky.com/play/sofish-games/8826/paws-go","appDeveloperInfo":{"name":"SOFISH GAMES","developerSlug":"sofish-games"},"appRank":1,"appRating":4.02,"appPageUrl":"https://educationbluesky.com/apps/sofish-games/8826/paws-go.html","appType":"Android","workflowCategory":"workflow1","appSlug":"paws-go","companyName":"Internal Indie Showcase","showTile":true},{"appId":"8827","packageName":"com.actopolus.PixelDudeSandbox","media":{"icon":"https://cdn.now.gg/apps-content/8827/icon/gangs-wars-pixel-shooter-rp.png","tile":"https://cdn.now.gg/apps-content/8827/game-tiles/gangs-wars-pixel-shooter-rp.jpg"},"appName":"Gangs Wars: Pixel Shooter RP","appGenre":"Action","playUrl":"https://educationbluesky.com/play/playducky-com/8827/gangs-wars-pixel-shooter-rp","appDeveloperInfo":{"name":"playducky.com","developerSlug":"playducky-com"},"appRank":1,"appRating":4.06,"appPageUrl":"https://educationbluesky.com/apps/playducky-com/8827/gangs-wars-pixel-shooter-rp.html","appType":"Android","workflowCategory":"workflow1","appSlug":"gangs-wars-pixel-shooter-rp","companyName":"Internal Indie Showcase","showTile":true},{"appId":"51304","packageName":"com.nowgg.h5.pub560.app51304","media":{"icon":"https://cdn.now.gg/apps-content/com.nowgg.h5.pub560.app51304/icon/smash-karts.png","tile":"https://cdn.now.gg/apps-content/com.nowgg.h5.pub560.app51304/game-tiles/smash-karts.jpg"},"appName":"Smash Karts","appGenre":"Arcade","playUrl":"https://educationbluesky.com/play/tall-team/51304/smash-karts","appDeveloperInfo":{"name":"TALL TEAM","developerSlug":"tall-team"},"appRank":5,"appRating":4.23,"appPageUrl":"https://educationbluesky.com/apps/tall-team/51304/smash-karts.html","appType":"Html","workflowCategory":"workflow1","appSlug":"smash-karts","companyName":"TALL TEAM","showTile":true},{"appId":"8695","packageName":"com.wa.idle.prison.empire.tycoon","media":{"icon":"https://cdn.now.gg/apps-content/8695/icon/idle-prison-empire-tycoon.png","tile":"https://cdn.now.gg/apps-content/8695/game-tiles/idle-prison-empire-tycoon.jpg"},"appName":"Idle Prison Empire Tycoon","appGenre":"Simulation","playUrl":"https://educationbluesky.com/play/wazzapps-global-limited/8695/idle-prison-empire-tycoon","appDeveloperInfo":{"name":"Wazzapps global limited","developerSlug":"wazzapps-global-limited"},"appRank":1,"appRating":4.7,"appPageUrl":"https://educationbluesky.com/apps/wazzapps-global-limited/8695/idle-prison-empire-tycoon.html","appType":"Android","workflowCategory":"workflow1","appSlug":"idle-prison-empire-tycoon","companyName":"Internal Indie Showcase","showTile":true},{"appId":"51917","packageName":"com.nowgg.h5.pub483.app51917","media":{"icon":"https://cdn.now.gg/apps-content/51917/icon/dynamons-7.png","tile":"https://cdn.now.gg/apps-content/51917/game-tiles/dynamons-7.jpg"},"appName":"Dynamons 7","appGenre":"Adventure","playUrl":"https://now.us/play/azerion-casual-games/51917/dynamons-7","appDeveloperInfo":{"name":"Azerion Casual Games","developerSlug":"azerion-casual-games"},"appRank":1,"appRating":4.27,"appPageUrl":"https://educationbluesky.com/apps/azerion-casual-games/51917/dynamons-7.html","appType":"Html","workflowCategory":"workflow1","appSlug":"dynamons-7","companyName":"Azerion","showTile":true},{"appId":"9089","packageName":"com.dpcq.juefeng.nowgg","media":{"icon":"https://cdn.now.gg/apps-content/9089/icon/battle-through-the-heavens.png","tile":"https://cdn.now.gg/apps-content/9089/game-tiles/battle-through-the-heavens.jpg"},"appName":"Battle Through the Heavens","appGenre":"Role Playing","playUrl":"https://educationbluesky.com/play/juefeng-games/9089/battle-through-the-heavens","appDeveloperInfo":{"name":"JueFeng Games","developerSlug":"juefeng-games"},"appRank":1,"appRating":4.4,"appPageUrl":"https://educationbluesky.com/apps/juefeng-games/9089/battle-through-the-heavens.html","appType":"Android","workflowCategory":"workflow1","appSlug":"battle-through-the-heavens","companyName":"JueFeng Games","showTile":true},{"appId":"8698","packageName":"com.sparklingsocietyworld.rollercoasterthemeparkbuildingtycoon","media":{"icon":"https://cdn.now.gg/apps-content/8698/icon/roller-coaster-life-theme-park.png","tile":"https://cdn.now.gg/apps-content/8698/game-tiles/roller-coaster-life-theme-park.jpg"},"appName":"Roller Coaster Life Theme Park","appGenre":"Simulation","playUrl":"https://educationbluesky.com/play/sparkling-society-park-building-island-v/8698/roller-coaster-life-theme-park","appDeveloperInfo":{"name":"Sparkling Society - Park Building \u0026 Island Village","developerSlug":"sparkling-society-park-building-island-v"},"appRank":1,"appRating":4.36,"appPageUrl":"https://educationbluesky.com/apps/sparkling-society-park-building-island-v/8698/roller-coaster-life-theme-park.html","appType":"Android","workflowCategory":"workflow1","appSlug":"roller-coaster-life-theme-park","companyName":"Internal Indie Showcase","showTile":true}],"sidebarGames":[],"ssrGames":{"topBarApps":[{"appId":"19913","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19913/icon/the-strongest-battle.png","tile":"https://cdn.now.gg/apps-content/19913/game-tiles/the-strongest-battle.jpg"},"appName":"The Strongest Battlegrounds","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/the-strongest-battle/19913/the-strongest-battle","appDeveloperInfo":{"name":"the-strongest-battle","developerSlug":"the-strongest-battle"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/the-strongest-battle/19913/the-strongest-battle.html","appType":"Android","workflowCategory":"workflow1","appSlug":"the-strongest-battle","companyName":"Now.gg-Internal","showTile":true},{"appId":"51946","packageName":"com.nowgg.h5.pub501.app51946","media":{"icon":"https://cdn.now.gg/apps-content/51946/icon/sup-ai.png","tile":"https://cdn.now.gg/apps-content/51946/game-tiles/sup-ai.jpg"},"appName":"wsup.ai - Chat with AI Characters Online","appGenre":"Simulation","playUrl":"https://educationbluesky.com/play/now-gg/51946/sup-ai","appDeveloperInfo":{"name":"now.gg","developerSlug":"now-gg"},"appRank":1,"appRating":4.8,"appPageUrl":"https://educationbluesky.com/apps/now-gg/51946/sup-ai.html","appType":"Html","workflowCategory":"workflow1","appSlug":"sup-ai","companyName":"Internal-H5","showTile":true},{"appId":"19910","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19910/icon/update-65-anime-rang.png","tile":"https://cdn.now.gg/apps-content/19910/game-tiles/update-65-anime-rang.jpg"},"appName":"Update 65 Anime Rangers X","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/update-65-anime-rang/19910/update-65-anime-rang","appDeveloperInfo":{"name":"update-65-anime-rang","developerSlug":"update-65-anime-rang"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/update-65-anime-rang/19910/update-65-anime-rang.html","appType":"Android","workflowCategory":"workflow1","appSlug":"update-65-anime-rang","companyName":"Now.gg-Internal","showTile":true},{"appId":"19907","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19907/icon/upd-fish-it.png","tile":"https://cdn.now.gg/apps-content/19907/game-tiles/upd-fish-it.jpg"},"appName":"UPD Fish It","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/upd-fish-it/19907/upd-fish-it","appDeveloperInfo":{"name":"upd-fish-it","developerSlug":"upd-fish-it"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/upd-fish-it/19907/upd-fish-it.html","appType":"Android","workflowCategory":"workflow1","appSlug":"upd-fish-it","companyName":"Now.gg-Internal","showTile":true},{"appId":"19911","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19911/icon/rivals.png","tile":"https://cdn.now.gg/apps-content/19911/game-tiles/rivals.jpg"},"appName":"RIVALS","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/rivals/19911/rivals","appDeveloperInfo":{"name":"rivals","developerSlug":"rivals"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/rivals/19911/rivals.html","appType":"Android","workflowCategory":"workflow1","appSlug":"rivals","companyName":"Now.gg-Internal","showTile":true},{"appId":"19914","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19914/icon/evad.png","tile":"https://cdn.now.gg/apps-content/19914/game-tiles/evad.jpg"},"appName":"Evad","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/evad/19914/evad","appDeveloperInfo":{"name":"evad","developerSlug":"evad"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/evad/19914/evad.html","appType":"Android","workflowCategory":"workflow1","appSlug":"evad","companyName":"Now.gg-Internal","showTile":true},{"appId":"19904","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19904/icon/Steal-a-Brainrot.png","tile":"https://cdn.now.gg/apps-content/19904/game-tiles/Steal-a-Brainrot.jpg"},"appName":"Steal a Brainrot","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/Steal-a-Brainrot/19904/Steal-a-Brainrot","appDeveloperInfo":{"developerSlug":"Steal-a-Brainrot","name":"Steal-a-Brainrot"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/Steal-a-Brainrot/19904/Steal-a-Brainrot.html","appType":"Android","workflowCategory":"workflow1","appSlug":"Steal-a-Brainrot","companyName":"Now.gg-Internal","showTile":true},{"appId":"19909","packageName":"com.roblox.client","media":{"icon":"https://cdn.now.gg/apps-content/19909/icon/slasher-forsaken.png","tile":"https://cdn.now.gg/apps-content/19909/game-tiles/slasher-forsaken.jpg"},"appName":"Slasher Forsaken","appGenre":"Adventure","playUrl":"https://educationbluesky.com/play/slasher-forsaken/19909/slasher-forsaken","appDeveloperInfo":{"name":"slasher-forsaken","developerSlug":"slasher-forsaken"},"appRank":8,"appRating":4.5,"appPageUrl":"https://educationbluesky.com/apps/slasher-forsaken/19909/slasher-forsaken.html","appType":"Android","workflowCategory":"workflow1","appSlug":"slasher-forsaken","companyName":"Now.gg-Internal","showTile":true}],"topApps":[],"remainingApps":[],"otherApps":[]},"isProdEnv":true,"isSkyvuApp":false,"isMultiPanelAdsEnabled":false,"isMultiSubscriptionFlow":false,"countryFooterLogo":null,"customFooterLogo":{},"pollingRate":8},"__N_SSP":true},"page":"/apps/[...index]","query":{"index":["a","19900","b.html"]},"buildId":"R0h2YDhFAJJRBLD9dc_ik","assetPrefix":"/8/play/assets","runtimeConfig":{"NEXT_PUBLIC_ENVIRONMENT":"prod8-berlin","NEXT_PUBLIC_FE_VERSION":"berlin-v1.48.300_feature_nc-8558_2-arm.1"},"isFallback":false,"isExperimentalCompile":false,"dynamicIds":[71484,73470,46865],"gssp":true,"scriptLoader":[]}</script><script defer="">!function(){var e=document.createElement("script"),t=document.getElementsByTagName("script")[0],a="https://cmp.inmobi.com".concat("/choice/","mw9xJtqPQGFbC","/","now.gg","/choice.js?tag_version=V3"),i=0;e.async=!0,e.type="text/javascript",e.src=a,t.parentNode.insertBefore(e,t),!function e(){for(var t,a="__tcfapiLocator",i=[],s=window;s;){try{if(s.frames[a]){t=s;break}}catch(n){}if(s===window.top)break;s=s.parent}t||(!function e(){var t=s.document,i=!!s.frames[a];if(!i){if(t.body){var n=t.createElement("iframe");n.style.cssText="display:none",n.name=a,t.body.appendChild(n)}else setTimeout(e,5)}return!i}(),s.__tcfapi=function e(){var t,a=arguments;if(!a.length)return i;if("setGdprApplies"===a[0])a.length>3&&2===a[2]&&"boolean"==typeof a[3]&&(t=a[3],"function"==typeof a[2]&&a[2]("set",!0));else if("ping"===a[0]){var s={gdprApplies:t,cmpLoaded:!1,cmpStatus:"stub"};"function"==typeof a[2]&&a[2](s)}else"init"===a[0]&&"object"==typeof a[3]&&(a[3]=Object.assign(a[3],{tag_version:"V3"})),i.push(a)},s.addEventListener(
+      "message",function e(t){var a="string"==typeof t.data,i={};try{i=a?JSON.parse(t.data):t.data}catch(s){}var n=i.__tcfapiCall;n&&window.__tcfapi(n.command,n.version,function(e,i){var s={__tcfapiReturn:{returnValue:e,success:i,callId:n.callId}};a&&(s=JSON.stringify(s)),t&&t.source&&t.source.postMessage&&t.source.postMessage(s,"*")},n.parameter)},!1))}();var s=function(){var e=arguments;typeof window.__uspapi!==s&&setTimeout(function(){void 0!==window.__uspapi&&window.__uspapi.apply(window.__uspapi,e)},500)},n=function(){i++,window.__uspapi===s&&i<3?console.warn("USP is not accessible"):clearInterval(p)};if(void 0===window.__uspapi){window.__uspapi=s;var p=setInterval(n,6e3)}}();window.__tcfapi('addEventListener', 2, a=>{var b;let c=null==a?void 0:a.eventStatus,d=null==(b=null==a?void 0:a.vendor)?void 0:b.consents,e=null==a?void 0:a.gdprApplies;if(sessionStorage.setItem("gdprApplies",e?"true":"false"),("useractioncomplete"===c||"tcloaded"===c&&e)&&d){let a=!!Object.keys(d).length;sessionStorage.setItem("userConsent",a?"true":"false"),window.dispatchEvent(new Event("nggGaScriptLoad"))}});</script><iframe name="__tcfapiLocator" style="display: none;"></iframe> <script>
+    // alerts
+    alert('ngg bypass by https://frogiesarcade.win')
+    alert('join the discord at https://discord.gg/unblockedgames')
+	//alert('this bypass was made possible by https://ziny.io')
+	alert('are you having fun attempting to block me, Rosen Sharma?')
+	// forced nowgg play thing
+    if (!sessionStorage.getItem('isEmbeddedFrame')) {
+        sessionStorage.setItem('isEmbeddedFrame', 'skool');
+        sessionStorage.setItem('partnerName', 'skool');
+		if (!sessionStorage.getItem('maxFps')){
+			sessionStorage.setItem('maxFps', '45');
+		}
+    } else {
+        console.warn('NOT first load 😭🙏')
+    }
+    // gotta plug all my shit too and delete the remove ads button
+    const interval = setInterval(() => {
+        const pieceoftext = [...document.querySelectorAll("span")]
+            .find(el => el.textContent?.trim().toUpperCase() === "TEST DRIVE");
+        if (pieceoftext) {
+            pieceoftext.innerText = "bypass by frogiesarcade.win | discord.gg/unblockedgames";
+        }
+        if (document.querySelector("h6").closest("button")){
+            document.querySelector("h6").closest("button").remove()
+        }
+    }, 100);
+
+    // ad injection
+    window.addEventListener('DOMContentLoaded', (event) => {
+        const socialbarrizz = document.createElement('script');
+		const popounderrizz = document.createElement('script');
+        socialbarrizz.type = 'text/javascript';
+        socialbarrizz.src = '//pl27946097.effectivegatecpm.com/dc/d1/f4/dcd1f4f6c08621aee3c6145eac0b5d43.js';
+		popounderrizz.type = 'text/javascript';
+        popounderrizz.src = '//pl27946160.effectivegatecpm.com/8e/cc/c0/8eccc06fba64e0fb05dbe597af764023.js';
+        document.body.appendChild(socialbarrizz);
+		document.body.appendChild(popounderrizz);
+    }
+    );
+    // goodbye now.gg hello nowgg.lol ahh ad removal
+    const mobile = /^((?!chrome|android).)*safari/i.test(navigator.userAgent) || /cros/i.test(navigator.userAgent);
+    if (!mobile){
+        setInterval(function() {
+        if (document.getElementsByClassName('sc-978a7a9c-0 jUWcJN')[0]) {
+            document.getElementsByClassName('sc-978a7a9c-0 jUWcJN')[0].remove()
+			document.getElementById('div-ad-app-page-leaderboard-container').remove()
+        }
+    }, 1000);
+    }
+            if (document.querySelector('header')) {
+            document.querySelector('header').remove()
+        }
+    // the popup thing
+    function proxyrefresh(text) {
+        var popup = document.createElement('div');
+        popup.innerText = text;
+        popup.style.position = 'fixed';
+        popup.style.top = '0';
+        popup.style.left = '0';
+        popup.style.width = '100%';
+        popup.style.height = '100%';
+        popup.style.backgroundColor = 'rgba(0, 0, 0, 0.8)';
+        popup.style.color = 'white';
+        popup.style.display = 'flex';
+        popup.style.justifyContent = 'center';
+        popup.style.backdropFilter = 'blur(20px)';
+        popup.style.alignItems = 'center';
+        popup.style.fontSize = '2em';
+        popup.style.zIndex = '9999';
+        popup.style.opacity = '0';
+        popup.style.transition = 'all 0.3s ease';
+        popup.style.fontFamily = 'Clash Display Semibold';
+
+        document.body.appendChild(popup);
+
+        setTimeout(function() {
+            popup.style.opacity = '1';
+            setTimeout(function() {
+                window.location.href = window.location.href + '?utm_source=now.gg-partner&utm_medium=bot&utm_campaign=carl';
+            }, 500);
+        }, 100);
+    }
+    setInterval(function() {
+        if (document.getElementsByClassName("sc-69333f43-19 cIaYNi")[0].innerText === "Unofficial proxy detected!") {
+            console.error("NO")
+            proxyrefresh();
+        }
+    }, 1000);
+	// delete the logout button
+	window.addEventListener('DOMContentLoaded', (event) => {
+        document.getElementById("ng-logout").remove()
+    }
+    );
+    // gtag injection
+    window.addEventListener('DOMContentLoaded', (event) => {
+        const script1 = document.createElement('script');
+        script1.async = true;
+        script1.src = 'https://www.googletagmanager.com/gtag/js?id=G-GZ7K0FK3LT';
+
+        const script2 = document.createElement('script');
+        script2.innerHTML = `
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-GZ7K0FK3LT');
+                  `;
+
+        document.head.appendChild(script1);
+        document.head.appendChild(script2);
+    }
+    );
+</script><script type="text/javascript" src="//pl27946097.effectivegatecpm.com/dc/d1/f4/dcd1f4f6c08621aee3c6145eac0b5d43.js"></script><script type="text/javascript" src="//pl27946160.effectivegatecpm.com/8e/cc/c0/8eccc06fba64e0fb05dbe597af764023.js"></script><script src="https://dn0qt3r0xannq.cloudfront.net/nowgg-IZQznjkQaj/longtail/prebid-load.js" id="prebid-script" data-nscript="afterInteractive"></script><next-route-announcer><p aria-live="assertive" id="__next-route-announcer__" role="alert" style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; top: 0px; width: 1px; white-space: nowrap; overflow-wrap: normal;"></p></next-route-announcer><script src="https://www.googletagmanager.com/gtag/js?id=G-8VVPTD9ZTY" id="gtag-script" async="" type="text/javascript" data-nscript="afterInteractive"></script><div id="bdj5arp" style="--rdata: bdj5arp; position: fixed; inset: 0px; z-index: 2147483650; background: black; opacity: 0.01; height: 659px; width: 393px;"><a id="lk3l" href="https://skinnycrawlinglax.com/x35zjzk5k0?yvolk=70&amp;refer=https%3A%2F%2F146.ip.nowgg.lol%2Fapps%2Fa%2F19900%2Fb.html&amp;kw=%5B%5D&amp;key=8eccc06fba64e0fb05dbe597af764023&amp;scrWidth=414&amp;scrHeight=896&amp;tz=-6&amp;ship=1&amp;v=25.12.4806&amp;sub3=invoke_layer&amp;res=14.245&amp;dev=r&amp;adb=n&amp;uuid=22d53eb4-0f39-4ea7-832d-ab3c5549cd6a%3A3%3A1" target="_blank" style="display: block; height: inherit;"></a></div></body><iframe id="container-dcd1f4f6c08621aee3c6145eac0b5d4342254" class="container-dcd1f4f6c08621aee3c6145eac0b5d4342254" width="410px" height="150px" style="display: block; border: medium; position: fixed; z-index: 2147483647; max-width: 90%; margin: auto; width: 410px; height: 150px; inset: 10px 0px auto;"></iframe></html>
